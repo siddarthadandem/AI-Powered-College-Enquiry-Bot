@@ -26,13 +26,30 @@ Designed to answer student and visitor queries about the college using a combina
 ---
 
 ## 📂 Project Structure
-\`\`\`
-├── app.py                # Main Flask application
-├── templates/            # HTML templates (index.html etc.)
-├── static/               # CSS, JS, and assets
-├── data/                 # JSON FAQ data files
-└── README.md
-\`\`\`
+college-chatbot/
+├── app.py                   # Main Flask application
+├── templates/               # HTML templates (index.html etc.)
+│   └── index.html
+├── static/                  # Static files: CSS, JS, images
+│   ├── css/
+│   │   └── style.css
+│   ├── js/
+│   │   └── script.js
+│   └── images/
+│       └── logo.png
+├── data/                    # Department-wise FAQ JSON files
+│   ├── cse.json
+│   ├── ece.json
+│   └── etc.
+├── logs/                    # Log files (queries.log, chatbot.log)
+│   └── chatbot.log
+├── requirements.txt         # Python dependencies
+├── Dockerfile               # Dockerfile for containerization
+├── .env                     # Environment variables (API_KEY etc.)
+├── .gitignore               # Files & directories to ignore in git
+├── README.md                # Project documentation
+└── LICENSE                  # Project license (e.g., MIT)
+
 
 ---
 
