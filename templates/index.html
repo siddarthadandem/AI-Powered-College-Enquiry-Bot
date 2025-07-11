@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>KITSBoT</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600;700&display=swap" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="/static/style.css" />
+</head>
+<body>
+<div id="sidebar-toggle-container" style="position: fixed; top: 10px; left: 10px; z-index: 110; display: flex; align-items: center; gap: 8px;">
+  <button id="sidebar-toggle" aria-label="Toggle sidebar" style="background:white; border:none; padding:0; cursor:pointer;">
+    <svg width="24" height="24" viewBox="0 0 24 24" fill="black" xmlns="http://www.w3.org/2000/svg" class="icon-lg text-token-text-secondary mx-2"><path fill-rule="evenodd" clip-rule="evenodd" d="M3 8C3 7.44772 3.44772 7 4 7H20C20.5523 7 21 7.44772 21 8C21 8.55228 20.5523 9 20 9H4C3.44772 9 3 8.55228 3 8ZM3 16C3 15.4477 3.44772 15 4 15H14C14.5523 15 15 15.4477 15 16C15 16.5523 14.5523 17 14 17H4C3.44772 17 3 16.5523 3 16Z" fill="black"></path></svg>
+  </button>
+  <button id="icon1" aria-label="Icon 1" style="background:none; border:none; padding:0; cursor:pointer;">
+    <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M10.75 4.25C7.16015 4.25 4.25 7.16015 4.25 10.75C4.25 14.3399 7.16015 17.25 10.75 17.25C14.3399 17.25 17.25 14.3399 17.25 10.75C17.25 7.16015 14.3399 4.25 10.75 4.25ZM2.25 10.75C2.25 6.05558 6.05558 2.25 10.75 2.25C15.4444 2.25 19.25 6.05558 19.25 10.75C19.25 12.7369 18.5683 14.5645 17.426 16.0118L21.4571 20.0429C21.8476 20.4334 21.8476 21.0666 21.4571 21.4571C21.0666 21.8476 20.4334 21.8476 20.0429 21.4571L16.0118 17.426C14.5645 18.5683 12.7369 19.25 10.75 19.25C6.05558 19.25 2.25 15.4444 2.25 10.75Z" fill="currentColor"></path></svg>
+  </button>
+  <button id="icon2" aria-label="Icon 2" style="background:none; border:none; padding:0; cursor:pointer;">
+    <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M15.6729 3.91287C16.8918 2.69392 18.8682 2.69392 20.0871 3.91287C21.3061 5.13182 21.3061 7.10813 20.0871 8.32708L14.1499 14.2643C13.3849 15.0293 12.3925 15.5255 11.3215 15.6785L9.14142 15.9899C8.82983 16.0344 8.51546 15.9297 8.29289 15.7071C8.07033 15.4845 7.96554 15.1701 8.01005 14.8586L8.32149 12.6785C8.47449 11.6075 8.97072 10.615 9.7357 9.85006L15.6729 3.91287ZM18.6729 5.32708C18.235 4.88918 17.525 4.88918 17.0871 5.32708L11.1499 11.2643C10.6909 11.7233 10.3932 12.3187 10.3014 12.9613L10.1785 13.8215L11.0386 13.6986C11.6812 13.6068 12.2767 13.3091 12.7357 12.8501L18.6729 6.91287C19.1108 6.47497 19.1108 5.76499 18.6729 5.32708ZM11 3.99929C11.0004 4.55157 10.5531 4.99963 10.0008 5.00007C9.00227 5.00084 8.29769 5.00827 7.74651 5.06064C7.20685 5.11191 6.88488 5.20117 6.63803 5.32695C6.07354 5.61457 5.6146 6.07351 5.32698 6.63799C5.19279 6.90135 5.10062 7.24904 5.05118 7.8542C5.00078 8.47105 5 9.26336 5 10.4V13.6C5 14.7366 5.00078 15.5289 5.05118 16.1457C5.10062 16.7509 5.19279 17.0986 5.32698 17.3619C5.6146 17.9264 6.07354 18.3854 6.63803 18.673C6.90138 18.8072 7.24907 18.8993 7.85424 18.9488C8.47108 18.9992 9.26339 19 10.4 19H13.6C14.7366 19 15.5289 18.9992 16.1458 18.9488C16.7509 18.8993 17.0986 18.8072 17.362 18.673C17.9265 18.3854 18.3854 17.9264 18.673 17.3619C18.7988 17.1151 18.8881 16.7931 18.9393 16.2535C18.9917 15.7023 18.9991 14.9977 18.9999 13.9992C19.0003 13.4469 19.4484 12.9995 20.0007 13C20.553 13.0004 21.0003 13.4485 20.9999 14.0007C20.9991 14.9789 20.9932 15.7808 20.9304 16.4426C20.8664 17.116 20.7385 17.7136 20.455 18.2699C19.9757 19.2107 19.2108 19.9756 18.27 20.455C17.6777 20.7568 17.0375 20.8826 16.3086 20.9421C15.6008 21 14.7266 21 13.6428 21H10.3572C9.27339 21 8.39925 21 7.69138 20.9421C6.96253 20.8826 6.32234 20.7568 5.73005 20.455C4.78924 19.9756 4.02433 19.2107 3.54497 18.2699C3.24318 17.6776 3.11737 17.0374 3.05782 16.3086C2.99998 15.6007 2.99999 14.7266 3 13.6428V10.3572C2.99999 9.27337 2.99998 8.39922 3.05782 7.69134C3.11737 6.96249 3.24318 6.3223 3.54497 5.73001C4.02433 4.7892 4.78924 4.0243 5.73005 3.54493C6.28633 3.26149 6.88399 3.13358 7.55735 3.06961C8.21919 3.00673 9.02103 3.00083 9.99922 3.00007C10.5515 2.99964 10.9996 3.447 11 3.99929Z" fill="currentColor"></path></svg>
+  </button>
+</div>
+    <div class="app-container">
+        <div class="sidebar" id="sidebar" style="background-color: white;">
+          <button id="sidebar-close" aria-label="Close sidebar" style="position: absolute; top: 10px; right: 10px; background: none; border: none; padding: 0; cursor: pointer;">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="black" xmlns="http://www.w3.org/2000/svg" class="icon-lg text-token-text-secondary mx-2"><path fill-rule="evenodd" clip-rule="evenodd" d="M3 8C3 7.44772 3.44772 7 4 7H20C20.5523 7 21 7.44772 21 8C21 8.55228 20.5523 9 20 9H4C3.44772 9 3 8.55228 3 8ZM3 16C3 15.4477 3.44772 15 4 15H14C14.5523 15 15 15.4477 15 16C15 16.5523 14.5523 17 14 17H4C3.44772 17 3 16.5523 3 16Z" fill="black"></path></svg>
+          </button>
+          <div id="chat-history" style="margin-top: 20px; max-height: 400px; overflow-y: auto;"></div>
+        </div>
+        <div id="kitsbot-button-container" style="position: fixed; top: 10px; left: calc(30px + 12ch); z-index: 120;">
+          <button aria-label="" type="button" id="radix-«rau»" aria-haspopup="menu" aria-expanded="false" data-state="closed" data-testid="model-switcher-dropdown-button" class="group flex cursor-pointer items-center gap-1 rounded-lg py-1.5 px-3 text-lg hover:bg-token-main-surface-secondary font-normal whitespace-nowrap focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-current focus-visible:ring-offset-2" style="view-transition-name: var(--vt-thread-model-switcher);">
+            <div>KitsBOT</div>
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-md text-token-text-tertiary"><path fill-rule="evenodd" clip-rule="evenodd" d="M5.29289 9.29289C5.68342 8.90237 6.31658 8.90237 6.70711 9.29289L12 14.5858L17.2929 9.29289C17.6834 8.90237 18.3166 8.90237 18.7071 9.29289C19.0976 9.68342 19.0976 10.3166 18.7071 10.7071L12.7071 16.7071C12.5196 16.8946 12.2652 17 12 17C11.7348 17 11.4804 16.8946 11.2929 16.7071L5.29289 10.7071C4.90237 10.3166 4.90237 9.68342 5.29289 9.29289Z" fill="currentColor"></path></svg>
+          </button>
+        </div>
+<h1 class="kitsbot-header">KitsBOT</h1>
+<main class="chat-container" id="chat-container">
+<div class="welcome-message" id="welcome-message" style="padding: 20px; font-family: 'Arial Black', Arial, sans-serif; font-size: 1.25rem; font-weight: 700; color: #000;">
+</div>
+            <div class="chat-box" id="chat-box"></div>
+            <div id="chat-response-area" class="chat-response-area"></div>
+<div id="animated-welcome" class="font-serif" style="position: fixed; top: calc(50% - 140px); left: 50%; transform: translateX(-50%); font-size: 1.25rem; font-weight: 700; color: #262121; z-index: 201;">
+  Hey There! How Can I Help You?
+</div>
+<div id="background-image" style="position: fixed; top: 63.5%; left: 50%; transform: translate(-50%, -50%); z-index: 100; pointer-events: none; opacity: 0.15;">
+  <img src="/static/grok-outline-home.jpeg" alt="KitsBOT Outline" style="max-width: 369px; width: 55vw; user-select: none;"/>
+</div>
+<form id="input-form" style="position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 90%; max-width: 600px; background: #ffffff; border-radius: 15px; z-index: 200; display: flex; flex-direction: column; gap: 0;">
+  <textarea id="user-input" placeholder="Ask Me Anything.." rows="2" style="width: 100%; border: none; border-radius: 15px 15px 0 0; padding: 25px 20px; font-size: 1rem; background: #ffffff; color: #000000; resize: none;"></textarea>
+  <div style="display: flex; justify-content: flex-end; gap: 10px; padding: 10px 20px; border-radius: 0 0 15px 15px; background: #ffffff;">
+    <button type="button" id="mic-btn" aria-label="Voice input" style="padding: 13px; border: none; border-radius: 30px; background-color: #fbfbfb; color: #000; font-weight: bold; font-size: 1rem; cursor: pointer;">
+      <svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg" aria-label="" class="h-[18px] w-[18px]" font-size="inherit">
+        <path d="M11.165 4.41699C11.165 3.22048 10.1955 2.25018 8.99902 2.25C7.80241 2.25 6.83203 3.22038 6.83203 4.41699V8.16699C6.83221 9.36346 7.80252 10.333 8.99902 10.333C10.1954 10.3328 11.1649 9.36335 11.165 8.16699V4.41699ZM12.665 8.16699C12.6649 10.1918 11.0238 11.8328 8.99902 11.833C6.97409 11.833 5.33221 10.1919 5.33203 8.16699V4.41699C5.33203 2.39195 6.97398 0.75 8.99902 0.75C11.0239 0.750176 12.665 2.39206 12.665 4.41699V8.16699Z" fill="currentColor"></path>
+        <path d="M14.8058 9.11426C14.4089 8.99623 13.9915 9.22244 13.8732 9.61914C13.2481 11.7194 11.3018 13.25 9.00011 13.25C6.69845 13.25 4.75214 11.7194 4.12706 9.61914C4.00876 9.22245 3.59126 8.99626 3.19444 9.11426C2.79744 9.23241 2.57141 9.65085 2.68956 10.0479C3.43005 12.5353 5.60114 14.4067 8.25011 14.707V15.75H6.91612C6.50191 15.75 6.16612 16.0858 6.16612 16.5C6.16612 16.9142 6.50191 17.25 6.91612 17.25H11.0831L11.1593 17.2461C11.5376 17.2078 11.8331 16.8884 11.8331 16.5C11.8331 16.1116 11.5376 15.7922 11.1593 15.7539L11.0831 15.75H9.75011V14.707C12.3991 14.4066 14.5702 12.5353 15.3107 10.0479C15.4288 9.65085 15.2028 9.23241 14.8058 9.11426Z" fill="currentColor"></path>
+      </svg>
+    </button>
+    <button type="submit" aria-label="Send message" class="send-button-arrow">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="black" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false">
+        <path d="M12 2L12 22M12 2L5 9M12 2L19 9" stroke="grey" stroke-width="2" stroke-linecap="circle" stroke-linejoin="round" fill="white"/>
+      </svg>
+    </button>
+  </div>
+</form>
+        </main>
+    </div>
+    <script src="/static/chat.js"></script>
+</body>
+</html>

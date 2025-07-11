@@ -1,0 +1,1035 @@
+{
+  "kits": [
+    {
+      "intent": "get_kits_full_form",
+      "question": "What does KITS stand for?",
+      "patterns": [
+        "What is KITS full form",
+        "Name and location of KITS college",
+        "Meaning of KITS"
+      ],
+      "keywords": ["KITS", "Kamala Institute of Technology & Science", "location", "college name", "Singapur", "Huzurabad", "Karimnagar"],
+      "answer": "KITS stands for Kamala Institute of Technology & Science. It is located in Singapur, Huzurabad, Karimnagar, Telangana, India – 505468."
+    },
+    {
+      "intent": "get_kits_full_form_extended",
+      "question": "What does KITS stand for?",
+      "patterns": [
+        "Full form of KITS",
+        "KITS college name and location",
+        "What does KITS mean"
+      ],
+      "keywords": ["KITS", "full form", "location", "address", "college", "institute", "meaning"],
+      "answer": "KITS stands for Kamala Institute of Technology & Science. It is located in Singapur, Huzurabad, Karimnagar, Telangana, India – 505468. Kamala Institute of Technology & Science (KITS) is a private engineering institution located in Singapur village, Huzurabad, Karimnagar district, Telangana. The institute is affiliated with Jawaharlal Nehru Technological University Hyderabad (JNTUH), recognized by the University Grants Commission (UGC), and approved by the All India Council for Technical Education (AICTE)."
+    },
+    {
+      "intent": "get_kits_affiliation",
+      "question": "Is KITS affiliated with any university?",
+      "patterns": [
+        "KITS university affiliation",
+        "Approvals and accreditations of KITS",
+        "Is KITS recognized by AICTE or NAAC"
+      ],
+      "keywords": ["affiliation", "JNTUH", "AICTE", "NBA", "NAAC", "approvals", "accreditation", "ISO certification"],
+      "answer": "Yes, KITS is affiliated to JNTUH, approved by AICTE, accredited by NBA (EEE, ECE, CSE), and NAAC with A++ grade. It is also ISO 9001:2015 certified."
+    },
+    {
+      "intent": "get_kits_management",
+      "question": "Who manages KITS college?",
+      "patterns": [
+        "Key people in KITS administration",
+        "Name the Chairman, Principal, or Director of KITS",
+        "Who is in charge of KITS"
+      ],
+      "keywords": ["management", "key people", "Chairman", "Principal", "Director", "Executive Director", "administration"],
+      "answer": "The Chairman is Sri Capt. V. Lakshmikantha Rao, Executive Director is Mr. V. Indraneel, Principal is Dr. K. Eswaraiah, and the Director is Dr. K. Shanker."
+    },
+    {
+      "intent": "get_kits_director",
+      "question": "Who is the Director of KITS college?",
+      "patterns": [
+        "Name the Director of KITS",
+        "Who is KITS Director"
+      ],
+      "keywords": ["Director", "Dr. K. Shanker", "administration", "faculty"],
+      "answer": "The Director of KITS is Dr. K. Shanker, M.E(Geotech), Ph.D(IITK) MISTE, MIGS."
+    },
+    {
+      "intent": "get_kits_principal",
+      "question": "Can you name the Principal of KITS?",
+      "patterns": [
+        "Who is the Principal of KITS",
+        "Name the KITS Principal"
+      ],
+      "keywords": ["Principal", "KITS", "Dr. K. Eswaraiah", "head", "administration"],
+      "answer": "The Principal of KITS is Dr. K. Eswaraiah, M.E(Prod. Engg), Ph.D(NITW), MISTE"
+    },
+    {
+      "intent": "get_kits_executive_director",
+      "question": "Who is the Executive Director of KITS college?",
+      "patterns": [
+        "Name the Executive Director of KITS",
+        "Who is KITS Executive Director"
+      ],
+      "keywords": ["Executive Director", "Mr. V. Indraneel", "management", "administration"],
+      "answer": "The Executive Director of KITS is Mr. V. Indraneel (MS). He holds a Master's degree from the University of Southern California (USC), Los Angeles. He is also actively involved in the strategic planning and development of the institute."
+    },
+    {
+      "intent": "get_kits_chairman",
+      "question": "Who is the Chairman of KITS college?",
+      "patterns": [
+        "Name the Chairman of KITS",
+        "Who is KITS Chairman"
+      ],
+      "keywords": ["Chairman", "Sri Capt. V. Lakshmikantha Rao", "founder", "Vodithala Education Society", "management"],
+      "answer": "The Chairman of Kamala Institute of Technology & Science (KITS), Singapur, is Sri Capt. V. Laxmikantha Rao. He is a retired Indian Army officer and a former Member of Parliament. Capt. V. Laxmikantha Rao is the founder of the Vodithala Education Society, which established KITS in 1997 with the vision of providing quality technical education in the region. Under his leadership, KITS has grown into a reputed institution affiliated with Jawaharlal Nehru Technological University, Hyderabad (JNTUH)."
+    },
+    {
+      "intent": "get_kits_vision",
+      "question": "What is the vision of KITS?",
+      "patterns": [
+        "KITS vision statement",
+        "Goals of KITS",
+        "What is KITS aiming for"
+      ],
+      "keywords": ["vision", "goals", "vision statement", "objective", "future"],
+      "answer": "KITS aims to deliver top-notch technical education, nurture leadership qualities, and empower students with global competitiveness."
+    },
+    {
+      "intent": "get_kits_mission",
+      "question": "What is the mission of KITS?",
+      "patterns": [
+        "KITS mission statement",
+        "What is KITS trying to achieve",
+        "Educational philosophy of KITS"
+      ],
+      "keywords": ["mission", "purpose", "educational philosophy", "achievement", "goals"],
+      "answer": "KITS promotes innovation, character building, and academic excellence while keeping a local and global perspective in mind."
+    },
+    {
+      "intent": "get_kits_campus_radio",
+      "question": "What is KamalaVaani?",
+      "patterns": [
+        "Does KITS have a campus radio",
+        "How KITS shares updates",
+        "What is KITS radio"
+      ],
+      "keywords": ["KamalaVaani", "campus radio", "updates", "broadcast", "communication", "internet radio"],
+      "answer": "KamalaVaani is KITS's own internet-based campus radio that shares updates, interviews, tech tips, and entertainment from 8:30 AM to 8:30 PM."
+    },
+    {
+      "intent": "get_kits_nss",
+      "question": "Does KITS have NSS activities?",
+      "patterns": [
+        "KITS social work contributions",
+        "Villages adopted by KITS NSS",
+        "NSS programs at KITS"
+      ],
+      "keywords": ["NSS", "social work", "village adoption", "outreach", "camps", "student service"],
+      "answer": "KITS has NSS units established in 2013, adopting 5 villages, organizing camps, health awareness programs, and student outreach."
+    },
+    {
+      "intent": "get_kits_ncc",
+      "question": "Does KITS offer NCC training?",
+      "patterns": [
+        "NCC units at KITS",
+        "How KITS supports cadet development",
+        "KITS NCC programs"
+      ],
+      "keywords": ["NCC", "cadets", "training", "battalion", "camp", "discipline"],
+      "answer": "KITS has two NCC units under the 9 Telangana Battalion with 100+ cadets. They participate in training camps and national-level events."
+    },
+    {
+      "intent": "get_kits_sports_facilities",
+      "question": "What sports facilities are available at KITS?",
+      "patterns": [
+        "Does KITS support sports and games",
+        "Indoor and outdoor sports at KITS",
+        "KITS sports infrastructure"
+      ],
+      "keywords": ["sports", "games", "indoor", "outdoor", "facilities", "gym", "cricket", "basketball", "volleyball", "kabaddi"],
+      "answer": "KITS offers a large outdoor ground, an indoor stadium, gym, and facilities for cricket, volleyball, basketball, shuttle badminton, kabaddi and more."
+    },
+    {
+      "intent": "get_kits_library",
+      "question": "What are the library facilities at KITS?",
+      "patterns": [
+        "Does KITS have a digital library",
+        "Books and journals in KITS library",
+        "KITS library resources"
+      ],
+      "keywords": ["library", "books", "journals", "digital", "reading", "facility", "timings", "resources", "collection", "e-resources"],
+      "answer": "KITS library spans 730 sqm with over 48,000 books, 513 e-journals, and a dedicated digital library. It remains open from 9 AM to 7 PM on working days."
+    },
+    {
+      "intent": "get_kits_hostel_admin",
+      "question": "Who is responsible for the hostel administration at KITS?",
+      "patterns": [
+        "KITS hostel wardens",
+        "Who manages KITS hostels"
+      ],
+      "keywords": ["administration", "hostel", "warden"],
+      "answer": "The Chief Warden is Dr. K. Shanker. The Senior Warden (Boys) is Dr. Ravindra Babu Kallam, and the Senior Warden (Girls) is Dr. Y.Y. Pundalik."
+    },
+    {
+      "intent": "get_kits_sports_council",
+      "question": "Does KITS have a sports council or committee?",
+      "patterns": [
+        "KITS sports committee",
+        "Sports management at KITS"
+      ],
+      "keywords": ["sports council", "sports committee", "KITS Singapur", "sports management"],
+      "answer": "Yes, KITS has a dedicated sports council that manages and organizes sports activities and events. The sports council ensures the smooth functioning of various competitions, training sessions, and the participation of students in inter-college sports events. It also collaborates with the physical education department to promote sports culture in the college."
+    },
+    {
+      "intent": "get_kits_infrastructure",
+      "question": "What infrastructure facilities does KITS provide?",
+      "patterns": [
+        "KITS campus facilities",
+        "Buildings and amenities at KITS"
+      ],
+      "keywords": ["infrastructure", "facilities", "KITS Singapur", "buildings", "campus", "amenities"],
+      "answer": "KITS offers state-of-the-art infrastructure, including well-equipped classrooms, laboratories, hostels, sports facilities, and an advanced library. The campus has Wi-Fi connectivity, a digital library, seminar halls, and modern teaching aids. The campus is designed to provide a comfortable and conducive learning environment for students."
+    },
+    {
+      "intent": "get_kits_classrooms",
+      "question": "Does KITS have modern classrooms and lecture halls?",
+      "patterns": [
+        "KITS classroom facilities",
+        "Lecture halls at KITS"
+      ],
+      "keywords": ["classrooms", "lecture halls", "modern", "KITS Singapur", "facilities"],
+      "answer": "Yes, KITS has modern classrooms and well-furnished lecture halls equipped with projectors, smart boards, and Wi-Fi. The classrooms are designed to facilitate interactive learning and provide a comfortable environment for students and faculty."
+    },
+    {
+      "intent": "get_kits_labs",
+      "question": "What lab facilities are available at KITS?",
+      "patterns": [
+        "KITS laboratory facilities",
+        "Research labs at KITS"
+      ],
+      "keywords": ["labs", "laboratories", "KITS Singapur", "departmental labs", "research facilities"],
+      "answer": "KITS has well-equipped laboratories for all departments, including Civil Engineering, Mechanical Engineering, Electrical & Electronics Engineering, Computer Science & Engineering, and more. These labs are equipped with the latest technology and tools to facilitate practical learning and research activities."
+    },
+    {
+      "intent": "get_kits_hostels",
+      "question": "Does KITS have hostel facilities?",
+      "patterns": [
+        "KITS student accommodation",
+        "Hostel facilities at KITS"
+      ],
+      "keywords": ["hostels", "accommodation", "KITS Singapur", "student hostels", "living facilities"],
+      "answer": "Yes, KITS provides hostel facilities for both boys and girls. The hostels are well-maintained with amenities such as 24/7 water and electricity supply, Wi-Fi connectivity, mess facilities, and recreational areas to ensure a comfortable stay for students."
+    },
+    {
+      "intent": "get_kits_computer_facilities",
+      "question": "What type of computer and internet facilities are available at KITS?",
+      "patterns": [
+        "KITS computer labs",
+        "Internet facilities at KITS"
+      ],
+      "keywords": ["computer facilities", "internet", "KITS Singapur", "Wi-Fi", "computing resources"],
+      "answer": "KITS provides modern computer labs with high-speed internet and Wi-Fi connectivity across the campus. The computer labs are well-equipped with the latest software and hardware to support various academic and research activities."
+    },
+    {
+      "intent": "get_kits_transportation",
+      "question": "Does KITS provide transportation services?",
+      "patterns": [
+        "KITS student transport",
+        "Campus commute at KITS"
+      ],
+      "keywords": ["transportation", "buses", "KITS Singapur", "campus commute", "student transport"],
+      "answer": "Yes, KITS offers transportation services for students and staff. The college operates a fleet of buses that connect the campus to various parts of the city and nearby areas, ensuring easy access to the campus for daily commuting."
+    },
+    {
+      "intent": "get_kits_eco_friendly",
+      "question": "Is KITS campus eco-friendly?",
+      "patterns": [
+        "KITS green campus",
+        "Sustainable practices at KITS"
+      ],
+      "keywords": ["eco-friendly", "green campus", "KITS Singapur", "sustainable practices"],
+      "answer": "Yes, KITS is committed to sustainability and maintaining an eco-friendly campus. The college implements various green initiatives like rainwater harvesting, waste management, and energy-efficient practices to reduce its environmental impact."
+    },
+    {
+      "intent": "get_kits_cafeteria",
+      "question": "Does KITS have a cafeteria or food court?",
+      "patterns": [
+        "KITS dining facilities",
+        "Food court at KITS"
+      ],
+      "keywords": ["cafeteria", "food court", "mess", "KITS Singapur", "student dining"],
+      "answer": "Yes, KITS has a well-maintained cafeteria and mess facilities that provide a variety of healthy and nutritious food options to students and staff. The food court caters to different tastes, offering both vegetarian and non-vegetarian meals."
+    },
+    {
+      "intent": "get_cse_achievements",
+      "question": "Tell me about the achievements of students and alumni in the Computer Science & Engineering department at KITS, Singapur.",
+      "patterns": [
+        "CSE student achievements at KITS",
+        "KITS CSE alumni accomplishments"
+      ],
+      "keywords": ["student achievements", "alumni achievements", "KITS Singapur", "Smart Electricity Bill Estimator", "BugCrowd", "paper publication"],
+      "answer": "The students and alumni of the Computer Science & Engineering department at KITS, Singapur have achieved remarkable feats. Ms. A. Navya, Ms. K. Srija, Ms. P. Reethu Raman, and Mr. R. Rahul were selected as one of the top ten teams for ideating and designing the 'Smart Electricity Bill Estimator' in the 'MAKE N MARKET' program at SR Engineering College. Ms. Anvitha from CSE was placed as a Systems Engineer at Infosys. Alumni Mr. Venkata Sai Teja Thadishetty and Mr. Ajaykumar Sriramoju started a software company 'BLUE RAPTORS TECHNOLOGY PRIVATE LIMITED'. R. Prashanth received Rs. 3238.60 (50$) for finding a bug in online testing in BugCrowd. G. Pavan Kumar published a paper titled 'Enhanced Hybrid LRU Page Replacement Algorithm' in IJARCSSE, Jan 2016."
+    },
+    {
+      "intent": "get_kits_cyber_association",
+      "question": "What is the KITS(S) Cyber Association and what activities does it organize?",
+      "patterns": [
+        "KITS Cyber Association activities",
+        "What does KCA do at KITS"
+      ],
+      "keywords": ["KITS(S) Cyber Association", "KCA", "activities", "workshops", "charity", "events", "technical fests"],
+      "answer": "The KITS(S) Cyber Association (KCA) is an association of Computer Science & Engineering students at KITS, Singapur. KCA organizes National Level Technical & Cultural Fests, Workshops, and other events for students. Additionally, KCA has started a charity group called 'HELP HELPLESS' that helps needy people, such as orphans, handicapped, and elderly individuals, by donating essential items."
+    },
+    {
+      "intent": "get_kits_placement_record",
+      "question": "What is the placement record of KITS?",
+      "patterns": [
+        "KITS campus placement record",
+        "How are placements at KITS"
+      ],
+      "keywords": ["placement record", "placements", "companies"],
+      "answer": "KITS has an impressive placement record with top companies like TCS, Infosys, Wipro, IBM, and Satyam visiting the campus regularly. It is one of the few rural colleges accredited by TCS for campus placements."
+    },
+    {
+      "intent": "get_kits_recruiters",
+      "question": "Which companies visit KITS for campus placements?",
+      "patterns": [
+        "Companies recruiting at KITS",
+        "KITS placement companies"
+      ],
+      "keywords": ["recruiters", "companies", "campus placements"],
+      "answer": "Companies like Tata Consultancy Services (TCS), Infosys, Wipro, IBM, and Satyam frequently visit KITS for campus recruitment drives."
+    },
+    {
+      "intent": "get_kits_placement_training",
+      "question": "Does KITS provide placement training to students?",
+      "patterns": [
+        "KITS placement preparation",
+        "Career training at KITS"
+      ],
+      "keywords": ["placement training", "career development", "skills"],
+      "answer": "Yes, KITS offers regular placement training sessions in aptitude, communication skills, group discussions, and technical interviews to prepare students for the job market."
+    },
+    {
+      "intent": "get_kits_task_role",
+      "question": "What is the role of TASK at KITS?",
+      "patterns": [
+        "TASK programs at KITS",
+        "How TASK helps KITS students"
+      ],
+      "keywords": ["TASK", "skill development", "placements"],
+      "answer": "The Telangana Academy for Skill and Knowledge (TASK) at KITS enhances placement opportunities by offering skill development programs that align with industry requirements."
+    },
+    {
+      "intent": "get_kits_technical_clubs",
+      "question": "Are there technical clubs available for students at KITS?",
+      "patterns": [
+        "KITS student technical clubs",
+        "Technical activities at KITS"
+      ],
+      "keywords": ["technical clubs", "student involvement", "academic clubs"],
+      "answer": "Yes, KITS has several technical clubs for each department that promote coding, electronics, mechanical innovations, civil modeling, and electrical projects."
+    },
+    {
+      "intent": "get_kits_hackathons",
+      "question": "Does KITS organize hackathons or coding events?",
+      "patterns": [
+        "KITS coding competitions",
+        "Hackathons at KITS"
+      ],
+      "keywords": ["hackathons", "coding competitions", "technical events"],
+      "answer": "Yes, KITS organizes intra and inter-collegiate hackathons, coding contests, and workshops to promote innovation and technical problem-solving skills among students."
+    },
+    {
+      "intent": "get_kits_academic_clubs",
+      "question": "How do academic clubs support student development at KITS?",
+      "patterns": [
+        "KITS academic club activities",
+        "Student development through KITS clubs"
+      ],
+      "keywords": ["academic clubs", "student development", "support"],
+      "answer": "Academic clubs at KITS enhance learning beyond the classroom by organizing guest lectures, student seminars, industrial visits, and mini-project exhibitions."
+    },
+    {
+      "intent": "get_kits_entrepreneurship_cell",
+      "question": "Is there an entrepreneurship cell at KITS?",
+      "patterns": [
+        "KITS startup cell",
+        "Entrepreneurship programs at KITS"
+      ],
+      "keywords": ["entrepreneurship", "startup", "E-cell"],
+      "answer": "Yes, KITS promotes innovation and entrepreneurship through its E-Cell, encouraging students to work on startup ideas and business models."
+    },
+    {
+      "intent": "get_kits_paper_presentations",
+      "question": "How are students involved in technical paper presentations?",
+      "patterns": [
+        "KITS student paper presentations",
+        "Technical conferences at KITS"
+      ],
+      "keywords": ["paper presentations", "technical", "conferences"],
+      "answer": "Students at KITS regularly participate in paper presentations, national-level symposiums, and technical conferences organized by both the institute and other colleges."
+    },
+    {
+      "intent": "get_kits_cultural_events",
+      "question": "What cultural events are conducted at KITS?",
+      "patterns": [
+        "KITS cultural festivals",
+        "Events at KITS"
+      ],
+      "keywords": ["cultural events", "festivals", "functions"],
+      "answer": "KITS organizes various cultural events throughout the year, including annual day celebrations, freshers' parties, traditional day, and inter-departmental cultural fests."
+    },
+    {
+      "intent": "get_kits_extracurricular_clubs",
+      "question": "Are there any student clubs for extracurricular activities at KITS?",
+      "patterns": [
+        "KITS extracurricular clubs",
+        "Student activities at KITS"
+      ],
+      "keywords": ["student clubs", "extracurricular", "activities"],
+      "answer": "Yes, KITS supports several student-run clubs focusing on arts, music, dance, drama, literature, photography, and technology to promote extracurricular involvement."
+    },
+    {
+      "intent": "get_kits_fests",
+      "question": "Does KITS conduct technical and cultural fests?",
+      "patterns": [
+        "KITS technical and cultural events",
+        "Fests at KITS"
+      ],
+      "keywords": ["technical fest", "cultural fest", "events"],
+      "answer": "Yes, KITS conducts both technical and cultural fests to showcase student talents and foster creativity and innovation. These events often include guest lectures, competitions, and exhibitions."
+    },
+    {
+      "intent": "get_kits_competitions",
+      "question": "Are there any annual competitions or talent shows at KITS?",
+      "patterns": [
+        "KITS talent shows",
+        "Annual competitions at KITS"
+      ],
+      "keywords": ["competitions", "talent shows", "annual events"],
+      "answer": "Yes, KITS hosts annual talent shows, dance and singing competitions, debates, quiz contests, and other creative events to bring out the artistic skills of students."
+    },
+    {
+      "intent": "get_kits_nss_ncc_extracurricular",
+      "question": "What is the role of NSS and NCC in extracurricular activities at KITS?",
+      "patterns": [
+        "NSS and NCC activities at KITS",
+        "KITS extracurricular programs"
+      ],
+      "keywords": ["NSS", "NCC", "extracurricular"],
+      "answer": "NSS and NCC units at KITS actively participate in community service, environmental campaigns, national events, and personality development programs as part of extracurricular engagement."
+    },
+    {
+      "intent": "get_kits_national_festivals",
+      "question": "Does KITS celebrate national festivals and important days?",
+      "patterns": [
+        "KITS national festival celebrations",
+        "Important days at KITS"
+      ],
+      "keywords": ["national festivals", "celebrations", "important days"],
+      "answer": "Yes, KITS celebrates national festivals and important days such as Independence Day, Republic Day, Teachers' Day, and Engineers’ Day with patriotic and cultural programs."
+    },
+    {
+      "intent": "get_kits_inter_college_competitions",
+      "question": "Does KITS host inter-college competitions?",
+      "patterns": [
+        "KITS inter-college events",
+        "Competitions hosted by KITS"
+      ],
+      "keywords": ["inter-college", "competitions", "events"],
+      "answer": "Yes, KITS hosts and participates in inter-college competitions in cultural, technical, and sports domains, fostering healthy competition and talent exchange."
+    },
+    {
+      "intent": "get_kits_event_organization",
+      "question": "How does KITS support students in organizing events?",
+      "patterns": [
+        "KITS student event support",
+        "Event management at KITS"
+      ],
+      "keywords": ["organizing", "student support", "events"],
+      "answer": "KITS supports students in organizing events by providing necessary infrastructure, financial aid, guidance from faculty, and logistics for successful event management."
+    },
+    {
+      "intent": "get_kits_sports",
+      "question": "What types of sports are available at KITS?",
+      "patterns": [
+        "Sports offered at KITS",
+        "KITS sports activities"
+      ],
+      "keywords": ["sports", "facilities", "games"],
+      "answer": "KITS offers a variety of sports including cricket, volleyball, basketball, tennikoit, throw ball, and shuttle badminton."
+    },
+    {
+      "intent": "get_kits_indoor_games",
+      "question": "What facilities are available in the indoor games complex at KITS?",
+      "patterns": [
+        "KITS indoor sports facilities",
+        "Indoor games at KITS"
+      ],
+      "keywords": ["indoor games complex", "facilities", "indoor sports"],
+      "answer": "The indoor games complex at KITS includes facilities for shuttle badminton, table tennis, carroms, chess, and a 16-station gym for fitness training."
+    },
+    {
+      "intent": "get_kits_indoor_grant",
+      "question": "Has KITS received any grants for its indoor games complex?",
+      "patterns": [
+        "Grants for KITS indoor complex",
+        "Funding for KITS sports"
+      ],
+      "keywords": ["indoor complex", "grant", "sports funding"],
+      "answer": "Yes, the Ministry of Youth Affairs & Sports, Government of India, sanctioned a grant of Rs. 20 lakhs during 2001–2003 for the construction of the indoor games complex at KITS."
+    },
+    {
+      "intent": "get_kits_gym",
+      "question": "What gym facilities are provided at KITS?",
+      "patterns": [
+        "KITS gym equipment",
+        "Fitness facilities at KITS"
+      ],
+      "keywords": ["gym", "fitness", "equipment"],
+      "answer": "KITS has a 16-station gym as part of its indoor games complex, promoting physical fitness among students."
+    },
+    {
+      "intent": "get_kits_sports_tournaments",
+      "question": "Have KITS students participated in inter-collegiate sports tournaments?",
+      "patterns": [
+        "KITS inter-collegiate sports",
+        "Sports tournaments at KITS"
+      ],
+      "keywords": ["inter-collegiate", "sports", "tournaments"],
+      "answer": "Yes, KITS students regularly participate in inter-collegiate tournaments and have won several prizes, including events organized by JNTU and NIT Warangal."
+    },
+    {
+      "intent": "get_kits_sports_achievements",
+      "question": "What are some notable sports achievements by KITS students?",
+      "patterns": [
+        "KITS student sports awards",
+        "Sports accomplishments at KITS"
+      ],
+      "keywords": ["sports achievements", "awards", "competitions"],
+      "answer": "KITS students have won numerous awards, such as 8 out of 13 events in JNTU's B-Zone tournament, state-level volleyball competitions, and championships in badminton and high jump."
+    },
+    {
+      "intent": "get_kits_high_jump",
+      "question": "Is there a high jump facility at KITS?",
+      "patterns": [
+        "KITS high jump training",
+        "High jump facilities at KITS"
+      ],
+      "keywords": ["high jump", "facility", "sports training"],
+      "answer": "Yes, KITS provides a high jump facility and even purchased a high jump mattress worth Rs. 1.15 lakhs to support training and competitions."
+    },
+    {
+      "intent": "get_kits_athletes",
+      "question": "Who are some prominent athletes from KITS?",
+      "patterns": [
+        "KITS notable athletes",
+        "Top athletes at KITS"
+      ],
+      "keywords": ["athletes", "students", "sports"],
+      "answer": "Prominent athletes include Mr. Anijith (IT), who won four consecutive gold medals in high jump at JNTU events, and Ms. Rajani (IT), who won several badminton titles and represented JNTU at the university level."
+    },
+    {
+      "intent": "get_kits_competition_level",
+      "question": "Do KITS students participate in state and national level competitions?",
+      "patterns": [
+        "KITS state-level competitions",
+        "National competitions at KITS"
+      ],
+      "keywords": ["state level", "national level", "competitions"],
+      "answer": "Yes, KITS students have represented the college in state-level and all-India inter-university competitions in athletics and other sports."
+    },
+    {
+      "intent": "get_kits_recreational_sports",
+      "question": "Are there any recreational sports activities at KITS?",
+      "patterns": [
+        "KITS recreational sports",
+        "Casual sports at KITS"
+      ],
+      "keywords": ["recreational", "sports", "activities"],
+      "answer": "Yes, in addition to competitive sports, KITS encourages recreational sports activities and regular physical training for all students."
+    },
+    {
+      "intent": "get_kits_hostel_fees",
+      "question": "What is the fee structure for hostel accommodation at KITS?",
+      "patterns": [
+        "KITS hostel charges",
+        "Cost of staying in KITS hostel"
+      ],
+      "keywords": ["hostel fee", "accommodation", "fee structure"],
+      "answer": "The hostel accommodation fee at KITS is Rs. 20,000 per year. Additionally, there is a Rs. 3,000 deposit and an approximate mess fee of Rs. 3,500 per month."
+    },
+    {
+      "intent": "get_kits_medical_facilities",
+      "question": "Are there any medical facilities available on campus?",
+      "patterns": [
+        "KITS campus medical services",
+        "Health facilities at KITS"
+      ],
+      "keywords": ["medical facilities", "health", "dispensary"],
+      "answer": "Yes, KITS provides medical facilities on campus with a dispensary that offers basic healthcare services. An ambulance is also available for emergencies."
+    },
+    {
+      "intent": "get_kits_wifi",
+      "question": "Does KITS provide Wi-Fi facilities?",
+      "patterns": [
+        "KITS internet connectivity",
+        "Wi-Fi services at KITS"
+      ],
+      "keywords": ["Wi-Fi", "facilities", "internet"],
+      "answer": "Yes, KITS provides 24/7 Wi-Fi internet connectivity throughout the campus, ensuring students have access to online resources and communication."
+    },
+    {
+      "intent": "get_kits_chief_warden",
+      "question": "What is the role of the KITS Chief Warden?",
+      "patterns": [
+        "Role of KITS Chief Warden",
+        "Who oversees KITS hostels"
+      ],
+      "keywords": ["Chief Warden", "role", "hostels"],
+      "answer": "The Chief Warden at KITS, Dr. K. Shanker, oversees the management and functioning of both boys' and girls' hostels, ensuring the well-being and discipline of students."
+    },
+    {
+      "intent": "get_kits_sustainability",
+      "question": "What kind of environmental sustainability initiatives does KITS have?",
+      "patterns": [
+        "KITS green initiatives",
+        "Sustainability programs at KITS"
+      ],
+      "keywords": ["environmental sustainability", "initiatives", "Haritha Haaram"],
+      "answer": "KITS actively participates in environmental sustainability initiatives like the 'Haritha Haaram' scheme, where students, including NCC and NSS volunteers, carry out plantation drives to promote greenery and sustainability."
+    },
+    {
+      "intent": "get_kits_library_titles",
+      "question": "How many titles are available in the KITS library?",
+      "patterns": [
+        "KITS library book titles",
+        "Number of titles in KITS library"
+      ],
+      "keywords": ["library", "titles", "books"],
+      "answer": "The KITS library has a collection of 8,681 titles, providing students with access to a vast range of books, journals, and digital resources."
+    },
+    {
+      "intent": "get_kits_girls_hostel",
+      "question": "Does KITS have a separate hostel for girls?",
+      "patterns": [
+        "KITS girls hostel facilities",
+        "Separate hostel for girls at KITS"
+      ],
+      "keywords": ["girls hostel", "facility", "accommodation"],
+      "answer": "  KITS has a separate girls' hostel with a capacity to accommodate 225 students. The hostel provides well-furnished rooms and a separate mess and dining hall."
+    },
+    {
+      "intent": "get_kits_staff_transport",
+      "question": "What transportation facilities are provided to staff at KITS?",
+      "patterns": [
+        "KITS staff bus service",
+        "Transportation for KITS faculty"
+      ],
+      "keywords": ["transportation", "staff", "facility"],
+      "answer": "KITS provides an exclusive staff bus service between Hanamkonda and Singapur, making commuting easier for faculty and staff."
+    },
+    {
+      "intent": "get_kits_career_development",
+      "question": "Are there any career development services at KITS?",
+      "patterns": [
+        "KITS career services",
+        "Placement support at KITS"
+      ],
+      "keywords": ["career development", "services", "placement"],
+      "answer": "Yes, KITS has a dedicated career development center that focuses on enhancing placement opportunities for students, providing training, workshops, and internship placements to develop skills required by the corporate sector."
+    },
+    {
+      "intent": "get_kits_guest_house",
+      "question": "Does KITS have a guest house for visitors?",
+      "patterns": [
+        "KITS visitor accommodation",
+        "Guest house facilities at KITS"
+      ],
+      "keywords": ["guest house", "facility", "visitors"],
+      "answer": "Yes, KITS has a guest house on campus that provides accommodation for visitors, parents, and faculty attending events or meetings."
+    },
+    {
+      "intent": "get_kits_mess_system",
+      "question": "How is the mess system managed at KITS?",
+      "patterns": [
+        "KITS hostel mess management",
+        "How KITS mess works"
+      ],
+      "keywords": ["mess system", "management", "cooperative"],
+      "answer": "The mess system at KITS operates on a cooperative basis, where students share the expenses on a no-profit, no-loss model. It provides nutritious food to both boys and girls hostels."
+    },
+    {
+      "intent": "get_kits_auditorium",
+      "question": "Does KITS have an auditorium for events?",
+      "patterns": [
+        "KITS event auditorium",
+        "Auditorium facilities at KITS"
+      ],
+      "keywords": ["auditorium", "facility", "events"],
+      "answer": "Yes, KITS has an auditorium equipped with modern facilities, providing a platform for cultural events, seminars, workshops, and conferences."
+    },
+    {
+      "intent": "get_kits_book_bank",
+      "question": "What are the details of the SC & ST Book Bank Scheme at KITS?",
+      "patterns": [
+        "KITS SC & ST book scheme",
+        "Book bank details at KITS"
+      ],
+      "keywords": ["SC & ST", "Book Bank", "scheme"],
+      "answer": "The SC & ST Book Bank Scheme at KITS allows SC and ST students to borrow up to six books per semester. The books must be returned after the semester ends."
+    },
+    {
+      "intent": "get_kits_weather_maintenance",
+      "question": "How is the campus maintained during extreme weather conditions?",
+      "patterns": [
+        "KITS campus maintenance",
+        "Weather management at KITS"
+      ],
+      "keywords": ["maintenance", "campus", "weather"],
+      "answer": "KITS ensures the campus remains green and well-maintained even in extreme weather conditions by conducting regular maintenance and plantation drives under the 'Haritha Haaram' initiative."
+    },
+    {
+      "intent": "get_kits_atm",
+      "question": "Is there any ATM facility near KITS?",
+      "patterns": [
+        "KITS campus ATM",
+        "Banking facilities at KITS"
+      ],
+      "keywords": ["ATM", "facility", "campus"],
+      "answer": "Yes, KITS has an ATM on the campus, allowing students and staff to access banking services conveniently."
+    },
+    {
+      "intent": "get_kits_recreational_activities",
+      "question": "What recreational activities are available for students at KITS?",
+      "patterns": [
+        "KITS student recreational activities",
+        "Leisure activities at KITS"
+      ],
+      "keywords": ["recreational activities", "sports", "facilities"],
+      "answer": "KITS offers a range of recreational activities, including indoor and outdoor games, sports tournaments, and fitness programs. Students can also access a gym, sports complex, and participate in inter-collegiate competitions."
+    },
+    {
+      "intent": "get_kits_video_conferencing",
+      "question": "Does KITS have video conferencing facilities?",
+      "patterns": [
+        "KITS video conference facilities",
+        "Online meeting facilities at KITS"
+      ],
+      "keywords": ["video conference", "facility", "communication"],
+      "answer": "Yes, KITS has video conferencing facilities to support online meetings, lectures, and collaboration with other institutions or industry experts."
+    },
+    {
+      "intent": "get_kits_seminar_hall_capacity",
+      "question": "What is the seating capacity of the seminar halls at KITS?",
+      "patterns": [
+        "KITS seminar hall size",
+        "Capacity of KITS seminar halls"
+      ],
+      "keywords": ["seating capacity", "seminar hall", "capacity"],
+      "answer": "The seminar halls at KITS are designed to accommodate a large number of attendees, providing a comfortable environment for academic and extracurricular events."
+    },
+    {
+      "intent": "get_kits_canteen",
+      "question": "Does KITS have a canteen on campus?",
+      "patterns": [
+        "KITS campus canteen",
+        "Food facilities at KITS"
+      ],
+      "keywords": ["canteen", "facility", "food"],
+      "answer": "Yes, KITS has a canteen that serves a variety of food and snacks to students, ensuring they have access to refreshment throughout the day."
+    },
+    {
+      "intent": "get_kits_library_borrowing",
+      "question": "What is the process for borrowing books from the KITS library?",
+      "patterns": [
+        "KITS library book borrowing",
+        "How to borrow books at KITS"
+      ],
+      "keywords": ["borrowing books", "library", "process"],
+      "answer": "Students, faculty, and non-teaching staff can borrow books from the KITS library. U.G. and P.G. students can borrow up to 3 books for 15 days. Faculty members can borrow up to 5 books at a time."
+    },
+    {
+      "intent": "get_kits_skill_development",
+      "question": "Does KITS provide any skill development programs?",
+      "patterns": [
+        "KITS skill programs",
+        "Training programs at KITS"
+      ],
+      "keywords": ["skill development", "programs", "TASK"],
+      "answer": "Yes, KITS collaborates with the Telangana Academy for Skill and Knowledge (TASK) to offer skill development programs that enhance students' technical and soft skills for better career opportunities."
+    },
+    {
+      "intent": "get_kits_student_transport",
+      "question": "What are the transportation services available for students at KITS?",
+      "patterns": [
+        "KITS student bus services",
+        "Transport for KITS students"
+      ],
+      "keywords": ["transportation", "services", "buses"],
+      "answer": "KITS provides student bus services from Warangal, Hanamkonda, Karimnagar, Husnabad, Jammikunta, and nearby towns, ensuring easy access to the campus."
+    },
+    {
+      "intent": "get_kits_water_treatment",
+      "question": "Is there a water treatment plant at KITS?",
+      "patterns": [
+        "KITS water purification",
+        "Water treatment facilities at KITS"
+      ],
+      "keywords": ["water treatment", "facility", "plant"],
+      "answer": "Yes, KITS has a water treatment plant with a 2000-liter capacity that ensures the supply of purified drinking water to the entire campus."
+    },
+    {
+      "intent": "get_kits_ncc_nss_role",
+      "question": "What is the role of the NCC and NSS at KITS?",
+      "patterns": [
+        "KITS NCC and NSS activities",
+        "Role of NCC and NSS at KITS"
+      ],
+      "keywords": ["NCC", "NSS", "role", "activities"],
+      "answer": "The NCC and NSS at KITS actively engage in various activities such as social service, environment sustainability, and personal development. NSS volunteers also participate in the annual plantation program 'Haritha Haaram.'"
+    },
+    {
+      "intent": "get_kits_indoor_sports",
+      "question": "What kind of indoor sports facilities does KITS offer?",
+      "patterns": [
+        "KITS indoor sports options",
+        "Indoor sports facilities at KITS"
+      ],
+      "keywords": ["indoor sports", "facility", "games"],
+      "answer": "KITS offers a separate indoor games complex with facilities for shuttle badminton, tennis, and other indoor sports, along with a 16-station gym for fitness and physical activities."
+    },
+    {
+      "intent": "get_kits_hostel_recreation",
+      "question": "Are there any recreational facilities available at the KITS hostels?",
+      "patterns": [
+        "KITS hostel recreational activities",
+        "Facilities in KITS hostels"
+      ],
+      "keywords": ["recreational facilities", "hostels", "games"],
+      "answer": "Yes, both boys' and girls' hostels at KITS are equipped with recreational facilities, including indoor and outdoor games, a TV, and access to Wi-Fi, ensuring a balanced lifestyle for students."
+    },
+    {
+      "intent": "get_kits_academic_resources",
+      "question": "What are the academic resources available for students at KITS?",
+      "patterns": [
+        "KITS academic support",
+        "Resources for KITS students"
+      ],
+      "keywords": ["academic resources", "library", "labs"],
+      "answer": "KITS provides excellent academic resources, including a well-stocked central library, state-of-the-art laboratories, and a variety of reference books, journals, and digital learning resources to aid students' education."
+    },
+    {
+      "intent": "get_kits_library_capacity",
+      "question": "What is the capacity of the Central Library at KITS?",
+      "patterns": [
+        "KITS library seating capacity",
+        "Central library size at KITS"
+      ],
+      "keywords": ["central library", "capacity", "seating"],
+      "answer": "The Central Library at KITS has a seating capacity of 150 members, providing ample space for students to engage in reading and research."
+    },
+    {
+      "intent": "get_kits_library_journals",
+      "question": "What types of journals are available at the KITS library?",
+      "patterns": [
+        "KITS library journal types",
+        "Journals in KITS library"
+      ],
+      "keywords": ["journals", "library", "types"],
+      "answer": "The KITS library offers 13 international journals, 54 national journals, and 513 e-journals, providing students access to a variety of academic resources."
+    },
+    {
+      "intent": "get_kits_seminar_hall",
+      "question": "Does KITS have a seminar hall for events?",
+      "patterns": [
+        "KITS seminar hall facilities",
+        "Event halls at KITS"
+      ],
+      "keywords": ["seminar hall", "events", "facilities"],
+      "answer": "Yes, KITS has well-equipped seminar halls, including an A/C seminar hall, where various academic and cultural events are held."
+    },
+    {
+      "intent": "get_kits_conference_facilities",
+      "question": "Are there any conference facilities at KITS?",
+      "patterns": [
+        "KITS conference halls",
+        "Facilities for conferences at KITS"
+      ],
+      "keywords": ["conference", "facilities", "hall"],
+      "answer": "KITS provides a well-maintained conference hall for hosting seminars, workshops, and academic events, contributing to a rich academic experience."
+    },
+    {
+      "intent": "get_kits_academic_programs",
+      "question": "What are the academic programs offered at KITS?",
+      "patterns": [
+        "KITS engineering courses",
+        "Academic programs at KITS"
+      ],
+      "keywords": ["academic programs", "courses", "engineering"],
+      "answer": "KITS offers undergraduate programs in Electrical and Electronics Engineering, Electronics and Communications Engineering, Computer Science & Engineering, Mechanical Engineering, and Civil Engineering. It also offers a post-graduate program in Advanced Manufacturing Systems."
+    },
+    {
+      "intent": "get_kits_mess_fee",
+      "question": "What is the mess fee at KITS for hostel students?",
+      "patterns": [
+        "KITS hostel mess cost",
+        "Mess charges at KITS"
+      ],
+      "keywords": ["mess fee", "hostel", "cost"],
+      "answer": "The mess fee at KITS is approximately Rs. 3,500 per month, providing healthy and nutritious food for hostel residents."
+    },
+    {
+      "intent": "get_kits_wifi_details",
+      "question": "What is the Wi-Fi facility like at KITS?",
+      "patterns": [
+        "KITS Wi-Fi connectivity",
+        "Internet speed at KITS"
+      ],
+      "keywords": ["Wi-Fi", "internet", "connectivity"],
+      "answer": "KITS provides Wi-Fi connectivity across the entire campus, ensuring round-the-clock internet access for students and staff. The internet speed is 500 Mbps from Vyshnavi online services."
+    },
+    {
+      "intent": "get_kits_academic_blocks",
+      "question": "What are the main academic blocks in KITS?",
+      "patterns": [
+        "KITS academic buildings",
+        "Main blocks at KITS"
+      ],
+      "keywords": ["academic blocks", "buildings", "facilities"],
+      "answer": "KITS has several academic blocks, including the Civil Engineering block, ECE block, ME block, and other facilities such as a Principal's Quarter, Staff Quarters, and seminar halls."
+    },
+    {
+      "intent": "get_kits_health_facilities",
+      "question": "What are the health and medical facilities available at KITS?",
+      "patterns": [
+        "KITS medical services",
+        "Health facilities at KITS"
+      ],
+      "keywords": ["health", "medical", "dispensary"],
+      "answer": "KITS has a dispensary and ambulance services to ensure the health and well-being of students. The campus also has purified drinking water and a water treatment plant with a 2000-liter capacity."
+    },
+    {
+      "intent": "get_kits_green_initiative",
+      "question": "What is the green power initiative at KITS?",
+      "patterns": [
+        "KITS environmental initiatives",
+        "Green power at KITS"
+      ],
+      "keywords": ["green power", "environment", "sustainability"],
+      "answer": "KITS has implemented a Green Power Initiative to promote sustainability and environmental consciousness, helping the campus maintain its lush green and eco-friendly surroundings."
+    },
+    {
+      "intent": "get_kits_disabled_facilities",
+      "question": "What are the facilities for disabled students at KITS?",
+      "patterns": [
+        "KITS accessibility facilities",
+        "Support for disabled students at KITS"
+      ],
+      "keywords": ["disabled", "facilities", "divyangjan"],
+      "answer": "KITS provides facilities such as ramps, wheelchairs, and other amenities to support the accessibility needs of disabled students."
+    },
+    {
+      "intent": "get_kits_hostel_details",
+      "question": "What are the hostel facilities available for boys and girls at KITS?",
+      "patterns": [
+        "KITS boys and girls hostels",
+        "Hostel amenities at KITS"
+      ],
+      "keywords": ["hostel", "boys", "girls", "facility"],
+      "answer": "Boys' hostel at KITS accommodates 175 students, while the girls' hostel houses 225 students. Both hostels offer furnished rooms, mess facilities, Wi-Fi, and recreational facilities, ensuring a comfortable stay."
+    },
+    {
+      "intent": "get_kits_dining",
+      "question": "What kind of dining facilities are available at KITS?",
+      "patterns": [
+        "KITS mess facilities",
+        "Dining options at KITS"
+      ],
+      "keywords": ["dining", "mess", "food"],
+      "answer": "KITS provides separate mess facilities for both boys and girls with delicious and healthy food. The mess operates on a cooperative basis, and expenses are shared by the boarders."
+    },
+    {
+      "intent": "get_kits_extracurricular_achievements",
+      "question": "What are the extracurricular and sports achievements at KITS?",
+      "patterns": [
+        "KITS sports and extracurricular awards",
+        "Achievements in activities at KITS"
+      ],
+      "keywords": ["sports", "achievements", "extracurricular"],
+      "answer": "KITS students have excelled in various extracurricular activities and sports events. They have won several prizes in inter-collegiate tournaments, including volleyball, basketball, and athletics, with notable individual achievements in high jump."
+    },
+    {
+      "intent": "get_kits_campus_size",
+      "question": "What is the size of the campus at KITS?",
+      "patterns": [
+        "KITS campus area",
+        "How big is KITS campus"
+      ],
+      "keywords": ["size", "campus", "area"],
+      "answer": "The campus is spread across 26.25 acres, located in a lush green mango grove, providing a pollution-free and serene environment for learning."
+    },
+    {
+      "intent": "get_kits_campus_environment",
+      "question": "What kind of environment does the KITS campus provide?",
+      "patterns": [
+        "KITS campus atmosphere",
+        "Learning environment at KITS"
+      ],
+      "keywords": ["environment", "learning", "green", "healthy"],
+      "answer": "The campus offers a conducive, healthy learning environment with lush green lawns, ornamental plants, and various trees, making it visually appealing and peaceful."
+    },
+    {
+      "intent": "get_kits_plants",
+      "question": "What types of plants are there on the KITS campus?",
+      "patterns": [
+        "KITS campus vegetation",
+        "Plants on KITS campus"
+      ],
+      "keywords": ["plants", "vegetation", "trees"],
+      "answer": "The campus includes fruit trees such as custard apple, papaya, pomegranate, lime, and mango, along with flowering plants like hibiscus, ixora, rose, nerium, and mussanda."
+    },
+    {
+      "intent": "get_kits_hostel_charges",
+      "question": "What are the charges for staying in the KITS hostel?",
+      "patterns": [
+        "KITS hostel fees",
+        "Cost of KITS hostel stay"
+      ],
+      "keywords": ["hostel", "charges", "fees"],
+      "answer": "The admission fee is Rs. 1,000, the hostel and mess deposit is Rs. 3,000, accommodation charges are Rs. 20,000 per year, and the mess fee is approximately Rs. 3,500 per month."
+    },
+    {
+      "intent": "get_kits_library_details",
+      "question": "What is the central library like at KITS?",
+      "patterns": [
+        "KITS central library facilities",
+        "Details of KITS library"
+      ],
+      "keywords": ["central library", "books", "journals"],
+      "answer": "The central library spans 730 square meters with a seating capacity of 150. It holds 86,681 titles, 48,289 books, 610 CDs, 13 international journals, and 513 e-journals."
+    },
+    {
+      "intent": "get_kits_digital_library",
+      "question": "What digital library resources are available at KITS?",
+      "patterns": [
+        "KITS digital library services",
+        "E-resources at KITS library"
+      ],
+      "keywords": ["digital library", "resources", "journals", "e-books"],
+      "answer": "The digital library provides access to e-books and journals through a 40 Mbps internet connection, with a server connected to all systems to cater to research and regular studies."
+    },
+    {
+      "intent": "get_kits_amenities",
+      "question": "What are the additional amenities at KITS?",
+      "patterns": [
+        "KITS campus amenities",
+        "Extra facilities at KITS"
+      ],
+      "keywords": ["amenities", "facilities", "services"],
+      "answer": "Additional amenities include ramps, wheelchairs, girls' waiting hall, seminar hall, ATM, bank, Xerox & PCO, canteen, purified drinking water, and a dispensary with ambulance service."
+    }
+  ]
+}

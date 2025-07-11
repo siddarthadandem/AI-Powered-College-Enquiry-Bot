@@ -1,0 +1,237 @@
+{
+  "hs": [
+    {
+      "intent": "get_hs_role",
+      "question": "What is the primary role of the Humanities and Sciences department at KITS College?",
+      "patterns": [
+        "Role of KITS Humanities and Sciences",
+        "Purpose of H&S department at KITS",
+        "What does KITS H&S department do"
+      ],
+      "keywords": ["Role", "Fundamentals", "Engineering", "Training"],
+      "answer": "The Humanities and Sciences department at KITS College trains students in the fundamentals of engineering, providing a strong foundation in sciences and humanities to prepare them for diverse engineering fields."
+    },
+    {
+      "intent": "get_hs_vision_mission",
+      "question": "What are the vision, mission, and main objectives of the Humanities and Sciences department?",
+      "patterns": [
+        "Vision and mission of KITS H&S department",
+        "Goals of Humanities and Sciences at KITS",
+        "H&S department objectives"
+      ],
+      "keywords": ["Vision", "Gateway", "Global Competitiveness", "Engineering", "Mission", "Foundation", "Ethics", "Scientific Temper", "objectives", "Humanities and Sciences", "department"],
+      "answer": "The vision of the Humanities and Sciences department is to serve as an ideal gateway for students entering diverse engineering fields, equipping them for the challenges of global competitiveness. Its mission is to lay a strong foundation in humanities and sciences, molding engineering graduates into responsible citizens with scientific temper, ethics, and skills for research, innovation, and societal progress. The main objectives include equipping students with essential knowledge and preparing them as responsible professionals with a research-oriented mindset."
+    },
+    {
+      "intent": "get_hs_faculty",
+      "question": "What are the qualifications, experience, and contributions of the faculty in the Humanities and Sciences department?",
+      "patterns": [
+        "KITS H&S faculty qualifications",
+        "Contributions of H&S department faculty",
+        "Who are the H&S professors at KITS"
+      ],
+      "keywords": ["Faculty", "Qualifications", "Experience", "Ph.D.", "Associate Professor", "Mathematics", "Economics", "Chemistry", "English", "Communication", "Research", "Teaching", "joining date", "Dr. Rajeshwar Rao V", "Ms. Venkata Ramana Kumari Akula", "Dr. Vijaya Lakshmi Kumbham", "Dr. Madhu Latha Katuri", "Dr. Sharath Chamala", "Dr. Ravikumar Vemula", "Mr. Ravikumar Kollooru"],
+      "answer": "The Humanities and Sciences department faculty include Dr. Rajeshwar Rao V (Ph.D. in Physics, 27 years 7 months experience, joined September 17, 1997), Ms. Venkata Ramana Kumari Akula (Ph.D. in Mathematics, 27 years 5 months experience, joined November 16, 1997), Dr. Vijaya Lakshmi Kumbham (M.A. Economics, MBA HR, Ph.D., 33 years 8 months experience, Associate Professor, joined July 1, 2002, enhances economics education), Dr. Madhu Latha Katuri (M.Sc., Ph.D., 24 years 11 months experience, Associate Professor, joined June 23, 2003, excels in mathematics), Dr. Sharath Chamala (M.A. Economics, PGDBM, Ph.D., 24 years 9 months experience, Associate Professor, joined August 1, 2000, contributes to economics research), Dr. Ravikumar Vemula (Ph.D. in Chemistry, 28 years 11 months experience, Associate Professor, joined August 1, 2009, advances chemical sciences), Mr. Ravikumar Kollooru (M.Sc., B.Ed., 19 years 10 months experience, joined September 15, 2006), Sobha Rani NC (M.Sc. Mathematics, 28 years 10 months experience, Assistant Professor, joined April 6, 2022, strengthens mathematics teaching), and Dr. Veerya Nayak Gugulothu (M.A., M.Phil., Ph.D. in English, 6 years 10 months experience, Assistant Professor, joined October 1, 2021, boosts communication skills). Others hold M.Sc., M.A., MBA, or Ph.D. degrees, averaging over 15 years of experience, contributing through teaching and research in physics, chemistry, mathematics, and economics."
+    },
+    {
+      "intent": "get_hs_labs",
+      "question": "What laboratories are available in the Humanities and Sciences department, and how do they support student learning?",
+      "patterns": [
+        "KITS H&S department lab facilities",
+        "Purpose of H&S labs at KITS",
+        "H&S labs for first-year students"
+      ],
+      "keywords": ["Laboratories", "Facilities", "Physics", "Chemistry", "Language", "Physics Lab", "Equipment", "Experiments", "First-Year", "Language Lab", "Pronunciation", "Competitive Exams", "Software", "Communication Lab", "Professional Development", "Interviews", "Public Speaking", "Practical Learning"],
+      "answer": "The Humanities and Sciences department has fully established labs including the Engineering Physics Lab (equipped with CROs, lasers, and dark room-based tools for first-year physics experiments), Engineering Chemistry Lab (with conductometers, potentiometers, colorimeters, and electric balances for first-year chemistry experiments), Computer Aided Language Lab (60 systems with Globarena English software to enhance pronunciation and prepare for GRE, TOEFL, GMAT), and English & Communication Skills Lab (with audio-visual aids, P.A. system, TV, and digital stereo mike set for training in interviews, group discussions, and public speaking). These labs support first-year B.Tech students by providing hands-on experiments, language proficiency, and communication skills training."
+    },
+    {
+      "intent": "get_hs_research",
+      "question": "How does the Humanities and Sciences department contribute to research, and what is the significance of its faculty’s publications?",
+      "patterns": [
+        "KITS H&S research contributions",
+        "H&S faculty publications impact",
+        "Research in H&S department"
+      ],
+      "keywords": ["Research", "Faculty", "Publications", "Journals"],
+      "answer": "The Humanities and Sciences department faculty contribute to research by publishing numerous papers in distinguished national and international journals, leveraging expertise in physics, chemistry, mathematics, and economics. These publications enhance the department’s academic reputation and contribute valuable insights to their respective fields."
+    },
+    {
+      "intent": "get_hs_ethics",
+      "question": "How does the Humanities and Sciences department foster ethical values and prepare students for ethical challenges in engineering?",
+      "patterns": [
+        "KITS H&S ethical education",
+        "H&S department ethics focus",
+        "How H&S prepares for ethical challenges"
+      ],
+      "keywords": ["Ethics", "Mission", "Responsible Citizens", "Education", "Challenges"],
+      "answer": "The Humanities and Sciences department fosters ethical values and prepares students for ethical challenges through its mission to mold engineering graduates into responsible citizens with scientific temper and ethics, emphasizing societal progress, moral responsibility, and integrity in engineering practice."
+    },
+    {
+      "intent": "get_hs_global_preparation",
+      "question": "How does the Humanities and Sciences department prepare students for global engineering challenges?",
+      "patterns": [
+        "KITS H&S global competitiveness",
+        "H&S department global challenges",
+        "How H&S equips students for engineering"
+      ],
+      "keywords": ["Global Challenges", "Vision", "Foundation", "Competitiveness"],
+      "answer": "The Humanities and Sciences department prepares students for global engineering challenges by providing a strong foundational education in sciences and humanities, aligning with its vision to equip students for competitiveness in diverse engineering domains."
+    },
+    {
+      "intent": "get_hs_new_faculty",
+      "question": "What are the recent faculty additions to the Humanities and Sciences department, and their qualifications?",
+      "patterns": [
+        "New faculty in KITS H&S",
+        "Recent H&S department hires",
+        "Qualifications of newest H&S faculty"
+      ],
+      "keywords": ["Recent Faculty", "Qualifications", "Joining Date", "Experience"],
+      "answer": "Recent faculty additions include Madhuri Keshaboina (Ph.D., joined August 22, 2024), Chaithanya Sravanthi Vure (M.Sc., joined September 6, 2024), and Bharathi Bongoni (M.Sc., joined November 6, 2024), each with 0 years and 6-8 months of experience."
+    },
+    {
+      "intent": "get_hs_multidisciplinary",
+      "question": "How does the Humanities and Sciences department ensure a multidisciplinary approach in its faculty expertise?",
+      "patterns": [
+        "KITS H&S multidisciplinary faculty",
+        "H&S department expertise diversity",
+        "How H&S faculty covers multiple fields"
+      ],
+      "keywords": ["Faculty", "Multidisciplinary", "Expertise", "Qualifications"],
+      "answer": "The department ensures a multidisciplinary approach with faculty expertise in physics (Dr. Rajeshwar Rao V), chemistry (Dr. Ravikumar Vemula), mathematics (Dr. Madhu Latha Katuri), economics (Dr. Sharath Chamala), and English (Dr. Veerya Nayak Gugulothu), covering diverse humanities and sciences disciplines."
+    },
+    {
+      "intent": "get_hs_activities",
+      "question": "What activities and community outreach programs has the Humanities and Sciences department organized?",
+      "patterns": [
+        "KITS H&S department activities",
+        "H&S community outreach programs",
+        "Events by H&S at KITS"
+      ],
+      "keywords": ["activities", "Humanities and Sciences", "department", "community outreach", "Induction Program"],
+      "answer": "The Humanities and Sciences department has organized activities such as National Science Day celebrations, seminars on Fiber Optic Sensors, workshops on Computer Interfaced Electronics Experiments, and the Induction Program for first-year B.Tech students (19th to 28th August 2018, per AICTE norms). Community outreach includes programs like 'Physics through Simple Experiments' for high school students in various districts, with faculty-led demonstrations."
+    }
+  ],
+  "tp": [
+    {
+      "intent": "get_tp_purpose",
+      "question": "What is the primary purpose of the Training & Placement Cell at KITS College?",
+      "patterns": [
+        "Purpose of KITS T&P Cell",
+        "Role of Training & Placement at KITS",
+        "What does KITS T&P Cell do"
+      ],
+      "keywords": ["Purpose", "Placement", "Training", "Employability"],
+      "answer": "The Training & Placement Cell at KITS College, established on August 29, 2001, aims to maximize student placements in reputed industries, arrange campus interviews, provide technical and soft skills training, and prepare students for competitive examinations like GATE and GRE."
+    },
+    {
+      "intent": "get_tp_leadership",
+      "question": "Who is the officer-in-charge of the Training & Placement Cell, and what is their role?",
+      "patterns": [
+        "Leader of KITS T&P Cell",
+        "Who runs the Training & Placement Cell",
+        "Role of T&P officer-in-charge"
+      ],
+      "keywords": ["Officer-in-Charge", "Leadership", "Training", "Placement"],
+      "answer": "Dr. K. Vijaya Lakshmi serves as the officer-in-charge of the Training & Placement Cell, overseeing its operations to ensure effective placement drives, training programs, and industry interactions for student development."
+    },
+    {
+      "intent": "get_tp_objectives",
+      "question": "What are the key objectives of the Training & Placement Cell at KITS College?",
+      "patterns": [
+        "Goals of KITS T&P Cell",
+        "Objectives of Training & Placement",
+        "T&P Cell mission at KITS"
+      ],
+      "keywords": ["Objectives", "Campus Interviews", "Technical Visits", "Skills"],
+      "answer": "The key objectives include maximizing student placements, arranging technical visits and industrial training, conducting campus interviews, providing coaching for competitive exams, and offering employability, technical, and soft skills training."
+    },
+    {
+      "intent": "get_tp_coordinators",
+      "question": "Who are the coordinators for the Training & Placement Cell across different departments?",
+      "patterns": [
+        "KITS T&P department coordinators",
+        "Who coordinates T&P for departments",
+        "T&P Cell faculty coordinators"
+      ],
+      "keywords": ["Coordinators", "Departments", "Placement", "Faculty"],
+      "answer": "The coordinators include Mr. N. Raghu (CSE), Ms. V. Srujana (ECE), Mr. A. Abisheker Reddy (EEE), Dr. S. Vamshi Krishna (MECH), Mr. D. Manoj (CIVIL), Mr. Rajashekar Ramarapu (AI&ML), with co-coordinators Mrs. V. Mamatha Reddy and Mr. P. Avaniketh (CSE)."
+    },
+    {
+      "intent": "get_tp_tcs_accreditation",
+      "question": "What is the significance of KITS College’s accreditation for campus placements by TCS?",
+      "patterns": [
+        "KITS TCS accreditation importance",
+        "Why TCS accredits KITS for placements",
+        "TCS placement benefits at KITS"
+      ],
+      "keywords": ["Accreditation", "TCS", "Campus Placements", "Reputation"],
+      "answer": "KITS College’s accreditation by TCS for campus placements highlights its reputation as a privileged institution, ensuring access to recruitment opportunities with a leading software company, enhancing student employability."
+    },
+    {
+      "intent": "get_tp_entrepreneurship",
+      "question": "How does the Training & Placement Cell promote entrepreneurship development among students?",
+      "patterns": [
+        "KITS T&P entrepreneurship programs",
+        "T&P Cell startup initiatives",
+        "How T&P fosters entrepreneurship"
+      ],
+      "keywords": ["Entrepreneurship", "Workshops", "Development Cell", "Skills", "2009"],
+      "answer": "The Training & Placement Cell promotes entrepreneurship by organizing workshops, such as the national-level workshop on February 13, 2009, the first such event addressing economic placement challenges, and planning to establish an Entrepreneurship Development Cell to develop entrepreneurial skills alongside employability."
+    },
+    {
+      "intent": "get_tp_training",
+      "question": "What training initiatives has the Training & Placement Cell undertaken for student skill development?",
+      "patterns": [
+        "KITS T&P training programs",
+        "T&P Cell soft skills initiatives",
+        "How T&P trains students"
+      ],
+      "keywords": ["Soft Skills", "Training", "Workshops", "Employability", "Infosys", "Collaboration", "JKC", "Train-the-Trainers", "Certification"],
+      "answer": "The Training & Placement Cell has undertaken initiatives like a two-day soft skills workshop in September 2005, led by Dr. Abhimanyu Acharya for 165 final-year students, and collaborates with Infosys through the INFOSYS-IEG-JKC program since 2006. This includes a train-the-trainers program, where faculty are trained in technical and soft skills, who then provide free annual training and certification to approximately 200 third-year students, enhancing employability."
+    },
+    {
+      "intent": "get_tp_support_staff",
+      "question": "What is the role of Mr. V. Bala Bhaskar in the Training & Placement Cell?",
+      "patterns": [
+        "Role of V. Bala Bhaskar in T&P",
+        "T&P Cell support staff duties",
+        "Who assists KITS T&P operations"
+      ],
+      "keywords": ["Senior Assistant", "Placement", "Support", "Operations"],
+      "answer": "Mr. V. Bala Bhaskar serves as the Senior Assistant in the Training & Placement Cell, supporting its operations, including coordinating placement activities, training sessions, and administrative tasks."
+    },
+    {
+      "intent": "get_tp_competitive_exams",
+      "question": "How does the Training & Placement Cell support students in preparing for competitive examinations?",
+      "patterns": [
+        "KITS T&P competitive exam coaching",
+        "How T&P prepares for GATE and GRE",
+        "T&P Cell exam support"
+      ],
+      "keywords": ["Competitive Exams", "Coaching", "GATE", "GRE"],
+      "answer": "The Training & Placement Cell arranges coaching for competitive examinations like GATE, GRE, and others for third-year and final-year students, equipping them with the skills needed for higher education and career opportunities."
+    },
+    {
+      "intent": "get_tp_placement_impact",
+      "question": "What is the impact of the Training & Placement Cell’s efforts on student placements?",
+      "patterns": [
+        "KITS T&P placement success",
+        "Impact of T&P on student jobs",
+        "T&P Cell placement outcomes"
+      ],
+      "keywords": ["Placements", "Reputed Companies", "Commitment", "Holistic Development"],
+      "answer": "The Training & Placement Cell’s efforts, driven by a commitment to holistic student development, have resulted in maximum student placements in reputed companies, enhancing career opportunities since its establishment in 2001."
+    },
+    {
+      "intent": "get_tp_industrial_exposure",
+      "question": "How does the Training & Placement Cell facilitate industrial exposure for students and faculty?",
+      "patterns": [
+        "KITS T&P industrial exposure",
+        "T&P Cell technical visits",
+        "How T&P connects with industry"
+      ],
+      "keywords": ["Industrial Exposure", "Technical Visits", "Training", "Industry"],
+      "answer": "The Training & Placement Cell facilitates industrial exposure by arranging technical visits and training at industrial sites for both students and faculty, fostering practical knowledge and industry connections."
+    }
+  ]
+}

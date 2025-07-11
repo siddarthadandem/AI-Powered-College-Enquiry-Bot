@@ -1,0 +1,611 @@
+{
+  "departments": {
+    "aiml": [
+      {
+        "intent": "get_aiml_history",
+        "question": "What is the history and establishment details of the AI & ML department at KITS College?",
+        "patterns": [
+          "history of AI & ML department",
+          "when was AIML department established",
+          "AI & ML department establishment details"
+        ],
+        "keywords": ["History", "Establishment", "Intake", "AI & ML"],
+        "answer": "The AI & ML department at KITS College was established in 2021 with an initial intake of 60 students for its B.Tech program, aiming to shape tech pioneers in artificial intelligence and machine learning."
+      },
+      {
+        "intent": "get_aiml_learning_environment",
+        "question": "What are the key features of the learning environment in the AI & ML department?",
+        "patterns": [
+          "features of AI & ML learning environment",
+          "AI & ML department classroom environment",
+          "how is learning in AI & ML department"
+        ],
+        "keywords": ["Learning Environment", "Faculty", "Class Size", "Mentorship"],
+        "answer": "The AI & ML department fosters a supportive learning environment with small class sizes for personalized attention, distinguished faculty for mentorship, and an emphasis on creativity, critical thinking, and problem-solving skills."
+      },
+      {
+        "intent": "get_aiml_vision",
+        "question": "What is the vision of the AI & ML department at KITS College?",
+        "patterns": [
+          "vision of AI & ML department",
+          "AI & ML department goals",
+          "what does AI & ML aim for"
+        ],
+        "keywords": ["Vision", "Employability", "Research", "Innovation"],
+        "answer": "The vision of the AI & ML department is to promote employability and inculcate research and entrepreneurial thinking among students to develop innovative solutions for industry and societal benefits."
+      },
+      {
+        "intent": "get_aiml_mission",
+        "question": "What are the mission objectives of the AI & ML department?",
+        "patterns": [
+          "mission of AI & ML department",
+          "AI & ML department objectives",
+          "goals of AI & ML department"
+        ],
+        "keywords": ["Mission", "Infrastructure", "Training", "Ethics"],
+        "answer": "The mission objectives include providing an academic ambience with necessary infrastructure, imparting high-quality professional training in modern software tools, and inculcating teamwork, lifelong learning, and societal and ethical responsibilities among students."
+      },
+      {
+        "intent": "get_aiml_faculty_qualifications",
+        "question": "What are the qualifications and experience of the faculty in the AI & ML department?",
+        "patterns": [
+          "AI & ML faculty qualifications",
+          "experience of AI & ML professors",
+          "who teaches in AI & ML department"
+        ],
+        "keywords": ["Faculty", "Qualifications", "Experience", "Ph.D."],
+        "answer": "The AI & ML department faculty include Dr. Praveen Kumar Rao Kavikondala (Ph.D., 26 years 10 months experience) and assistant professors with M.Tech qualifications, such as Rasakatla Padma (17 years 11 months) and Avaniketh Poloju (16 years 2 months, Ph.D. pursuing)."
+      },
+      {
+        "intent": "get_aiml_lab_facilities",
+        "question": "What software and hardware facilities are available in the AI & ML department’s laboratories?",
+        "patterns": [
+          "AI & ML lab facilities",
+          "software in AI & ML labs",
+          "hardware in AI & ML department"
+        ],
+        "keywords": ["Facilities", "Laboratories", "Software", "Hardware"],
+        "answer": "The AI & ML department’s laboratories are equipped with software like Python, Java, C, Linux, and Selenium, and hardware including Acer and HCL systems, Windows 2003 servers, Intel Xeon servers, and UPS systems (10kVA to 15kVA) with 30-minute backup."
+      },
+      {
+        "intent": "get_aiml_patents",
+        "question": "What patents have been filed by the AI & ML department faculty, and what are their focus areas?",
+        "patterns": [
+          "patents by AI & ML faculty",
+          "AI & ML department innovations",
+          "focus areas of AI & ML patents"
+        ],
+        "keywords": ["Patents", "Innovation", "Smart Systems", "Machine Learning"],
+        "answer": "Faculty patents include Dr. Praveen Kumar Rao Kavikondala’s automated student information management system (2020) and smart agriculture monitoring using machine learning (2021), and Radarapu Bharathi’s smart prediction system for COVID-vaccinated personnel (2021)."
+      },
+      {
+        "intent": "get_aiml_industry_training",
+        "question": "How does the AI & ML department ensure industry-relevant training for students?",
+        "patterns": [
+          "AI & ML industry training",
+          "how AI & ML prepares students for industry",
+          "training in AI & ML department"
+        ],
+        "keywords": ["Training", "Industry", "Software Tools", "Skills"],
+        "answer": "The AI & ML department ensures industry-relevant training by imparting expertise in modern software tools and technologies through high-quality professional training, as outlined in its mission to cater to real-time industry requirements."
+      },
+      {
+        "intent": "get_aiml_praveen_role",
+        "question": "What is the role of Dr. Praveen Kumar Rao Kavikondala in the AI & ML department, and what are his contributions?",
+        "patterns": [
+          "role of Dr. Praveen in AI & ML",
+          "contributions of Dr. Praveen Kavikondala",
+          "who is Dr. Praveen in AI & ML department"
+        ],
+        "keywords": ["Faculty", "Professor", "Patents", "Experience"],
+        "answer": "Dr. Praveen Kumar Rao Kavikondala, a Professor with a Ph.D. and 26 years 10 months of experience, leads the AI & ML department and has contributed through patents like an automated student information system (2020) and a smart agriculture monitoring scheme (2021)."
+      },
+      {
+        "intent": "get_aiml_research_support",
+        "question": "How does the AI & ML department support research and innovation among its faculty and students?",
+        "patterns": [
+          "AI & ML research support",
+          "innovation in AI & ML department",
+          "how AI & ML promotes research"
+        ],
+        "keywords": ["Research", "Innovation", "Faculty", "Infrastructure"],
+        "answer": "The AI & ML department supports research and innovation through a dedicated Project/Research & Development Lab equipped with Linux, Python, and LaTeX, and by fostering a faculty with expertise in cutting-edge AI and ML research, as evidenced by their patents and publications."
+      },
+      {
+        "intent": "get_aiml_praveen_profile",
+        "question": "What is the academic profile and tenure of Dr. Praveen Kumar Rao Kavikondala in the AI & ML department?",
+        "patterns": [
+          "academic profile of Dr. Praveen",
+          "tenure of Dr. Praveen in AI & ML",
+          "Dr. Praveen Kavikondala experience"
+        ],
+        "keywords": ["Faculty", "Professor", "Experience", "Tenure"],
+        "answer": "Dr. Praveen Kumar Rao Kavikondala, a Professor in the AI & ML department, holds a Ph.D. with 26 years and 10 months of experience, having joined KITS College on June 11, 1998, as a regular faculty member."
+      },
+      {
+        "intent": "get_aiml_lab_support",
+        "question": "How do the AI & ML department’s laboratories support practical learning and research?",
+        "patterns": [
+          "AI & ML lab support for learning",
+          "practical learning in AI & ML labs",
+          "research in AI & ML laboratories"
+        ],
+        "keywords": ["Laboratories", "Practical Learning", "Research", "Equipment"],
+        "answer": "The AI & ML department’s laboratories, such as the Project/Research & Development Lab and Web Development Lab, support practical learning and research with tools like Python, Java, and Linux, and equipment like Acer systems, Intel servers, and high-capacity UPS systems for uninterrupted operations."
+      },
+      {
+        "intent": "get_aiml_entrepreneurship",
+        "question": "What role does the AI & ML department play in fostering entrepreneurial thinking among students?",
+        "patterns": [
+          "AI & ML entrepreneurship support",
+          "how AI & ML promotes entrepreneurial thinking",
+          "entrepreneurship in AI & ML department"
+        ],
+        "keywords": ["Entrepreneurship", "Innovation", "Vision", "Students"],
+        "answer": "The AI & ML department fosters entrepreneurial thinking by promoting a vision that encourages students to develop innovative solutions for industry and society, supported by a curriculum emphasizing modern tools and real-world problem-solving."
+      },
+      {
+        "intent": "get_aiml_ethics",
+        "question": "How does the AI & ML department ensure ethical and societal responsibility in its students?",
+        "patterns": [
+          "AI & ML ethical training",
+          "societal responsibility in AI & ML",
+          "ethics in AI & ML department"
+        ],
+        "keywords": ["Ethics", "Societal Responsibility", "Mission", "Training"],
+        "answer": "The AI & ML department’s mission includes inculcating societal and ethical responsibilities through professional training that emphasizes teamwork, lifelong learning, and a commitment to addressing societal needs responsibly."
+      },
+      {
+        "intent": "get_aiml_padma_contributions",
+        "question": "What are the contributions of Rasakatla Padma to the AI & ML department’s academic environment?",
+        "patterns": [
+          "contributions of Rasakatla Padma",
+          "Rasakatla Padma in AI & ML",
+          "role of Padma in AI & ML department"
+        ],
+        "keywords": ["Faculty", "Experience", "Teaching", "Contribution"],
+        "answer": "Rasakatla Padma, an Assistant Professor with an M.Tech and 17 years and 11 months of experience, contributes to the AI & ML department’s academic environment through her extensive teaching expertise and mentorship since joining on August 1, 2024."
+      },
+      {
+        "intent": "get_aiml_class_size_significance",
+        "question": "What is the significance of the AI & ML department’s small class sizes for student development?",
+        "patterns": [
+          "significance of AI & ML class sizes",
+          "small classes in AI & ML department",
+          "how class size affects AI & ML students"
+        ],
+        "keywords": ["Class Size", "Personalized Attention", "Student Development"],
+        "answer": "The AI & ML department’s small class sizes ensure personalized attention, enabling faculty to mentor students closely, foster collaboration, and support individual growth in creativity and problem-solving skills."
+      },
+      {
+        "intent": "get_aiml_faculty_education",
+        "question": "How do the AI & ML department’s faculty qualifications support its goal of cutting-edge education?",
+        "patterns": [
+          "AI & ML faculty education",
+          "qualifications of AI & ML professors",
+          "cutting-edge education in AI & ML"
+        ],
+        "keywords": ["Faculty", "Qualifications", "Education", "Research"],
+        "answer": "The AI & ML department’s faculty, including Dr. Praveen Kumar Rao Kavikondala (Ph.D.) and others with M.Tech degrees or pursuing Ph.D.s, bring expertise in cutting-edge AI and ML research, ensuring high-quality, industry-relevant education."
+      },
+      {
+        "intent": "get_aiml_praveen_patents",
+        "question": "What are the focus areas of the patents filed by Dr. Praveen Kumar Rao Kavikondala in the AI & ML department?",
+        "patterns": [
+          "patents by Dr. Praveen Kavikondala",
+          "focus areas of Dr. Praveen’s patents",
+          "AI & ML patents by Praveen"
+        ],
+        "keywords": ["Patents", "Student Management", "Agriculture", "Machine Learning"],
+        "answer": "Dr. Praveen Kumar Rao Kavikondala’s patents focus on an automated student information management system (2020) and a smart agriculture monitoring scheme using machine learning strategies (2021), enhancing educational and agricultural innovation."
+      },
+      {
+        "intent": "get_aiml_infrastructure",
+        "question": "How does the AI & ML department’s infrastructure support its academic and research objectives?",
+        "patterns": [
+          "AI & ML infrastructure support",
+          "infrastructure in AI & ML department",
+          "how AI & ML facilities aid research"
+        ],
+        "keywords": ["Infrastructure", "Laboratories", "Resources", "Research"],
+        "answer": "The AI & ML department’s infrastructure, including labs with high-speed LAN, advanced servers, and software like Python and Selenium, supports academic and research objectives by providing robust resources for hands-on learning and innovation."
+      },
+      {
+        "intent": "get_aiml_recent_faculty",
+        "question": "What recent faculty additions have been made to the AI & ML department, and what are their qualifications?",
+        "patterns": [
+          "new faculty in AI & ML",
+          "recent AI & ML faculty additions",
+          "qualifications of new AI & ML professors"
+        ],
+        "keywords": ["Recent Faculty", "Qualifications", "Joining Date", "Experience"],
+        "answer": "Recent faculty additions to the AI & ML department include Mangu Akhila, S Sankeerth, N Srinivas, and V Srinivas, all joining in March 2025 with M.Tech qualifications and 0 years and 1 month of experience."
+      },
+      {
+        "intent": "get_aiml_collaboration",
+        "question": "How does the AI & ML department at KITS College promote collaboration among students?",
+        "patterns": [
+          "student collaboration in AI & ML",
+          "how AI & ML promotes teamwork",
+          "AI & ML department student interaction"
+        ],
+        "keywords": ["Collaboration", "Learning Environment", "Students", "Teamwork"],
+        "answer": "The AI & ML department promotes collaboration through a supportive learning environment that encourages teamwork, facilitated by small class sizes and faculty-guided projects, fostering peer interaction and collective problem-solving."
+      },
+      {
+        "intent": "get_aiml_faculty_mentorship",
+        "question": "What is the role of the AI & ML department’s faculty in mentoring students?",
+        "patterns": [
+          "AI & ML faculty mentorship",
+          "how AI & ML professors mentor students",
+          "mentorship in AI & ML department"
+        ],
+        "keywords": ["Faculty", "Mentorship", "Guidance", "Student Development"],
+        "answer": "The AI & ML department’s faculty, including distinguished experts like Dr. Praveen Kumar Rao Kavikondala, provide personalized mentorship, guiding students throughout their academic journey to enhance their technical and professional skills."
+      },
+      {
+        "intent": "get_aiml_curriculum",
+        "question": "How does the AI & ML department’s curriculum align with industry requirements?",
+        "patterns": [
+          "AI & ML curriculum industry alignment",
+          "how AI & ML curriculum meets industry needs",
+          "industry relevance of AI & ML courses"
+        ],
+        "keywords": ["Curriculum", "Industry", "Software Tools", "Training"],
+        "answer": "The AI & ML department’s curriculum aligns with industry requirements by focusing on modern software tools and technologies, as outlined in its mission, ensuring students gain expertise relevant to real-time industry challenges."
+      },
+      {
+        "intent": "get_aiml_avaniketh_contributions",
+        "question": "What are the contributions of Avaniketh Poloju to the AI & ML department’s teaching and research?",
+        "patterns": [
+          "contributions of Avaniketh Poloju",
+          "Avaniketh Poloju in AI & ML",
+          "role of Avaniketh in AI & ML department"
+        ],
+        "keywords": ["Faculty", "Teaching", "Research", "Experience"],
+        "answer": "Avaniketh Poloju, an Assistant Professor with an M.Tech (Ph.D. pursuing) and 16 years and 2 months of experience, contributes to the AI & ML department through teaching advanced AI concepts and engaging in research since joining on January 24, 2024."
+      },
+      {
+        "intent": "get_aiml_advanced_projects",
+        "question": "How do the AI & ML department’s laboratory facilities support advanced AI and ML projects?",
+        "patterns": [
+          "AI & ML lab support for projects",
+          "advanced projects in AI & ML labs",
+          "facilities for AI & ML research"
+        ],
+        "keywords": ["Laboratories", "Facilities", "AI Projects", "Hardware"],
+        "answer": "The AI & ML department’s laboratories, equipped with high-performance Acer systems, Intel Xeon servers, and software like Python and Java, support advanced AI and ML projects by providing robust computational resources and development environments."
+      },
+      {
+        "intent": "get_aiml_bharathi_patent",
+        "question": "What is the significance of Radarapu Bharathi’s patent in the AI & ML department?",
+        "patterns": [
+          "Radarapu Bharathi patent significance",
+          "AI & ML patent by Bharathi",
+          "impact of Bharathi’s patent"
+        ],
+        "keywords": ["Patent", "Public Health", "COVID", "Innovation"],
+        "answer": "Radarapu Bharathi’s patent for a 'Smart Prediction System to Mine the Database of COVID Vaccinated Personnel' (2021) enhances the AI & ML department’s innovation profile by addressing public health challenges through data-driven solutions."
+      },
+      {
+        "intent": "get_aiml_lifelong_learning",
+        "question": "How does the AI & ML department encourage lifelong learning among its students?",
+        "patterns": [
+          "lifelong learning in AI & ML",
+          "how AI & ML promotes continuous learning",
+          "AI & ML student skill development"
+        ],
+        "keywords": ["Lifelong Learning", "Mission", "Professional Development", "Students"],
+        "answer": "The AI & ML department encourages lifelong learning by instilling a commitment to continuous education, as part of its mission, through exposure to modern technologies and fostering a mindset of ongoing skill development."
+      },
+      {
+        "intent": "get_aiml_employability_impact",
+        "question": "What is the impact of the AI & ML department’s vision on student employability?",
+        "patterns": [
+          "AI & ML vision impact on employability",
+          "how AI & ML improves job prospects",
+          "employability in AI & ML department"
+        ],
+        "keywords": ["Vision", "Employability", "Innovation", "Industry"],
+        "answer": "The AI & ML department’s vision to promote employability drives students to develop innovative solutions, enhancing their skills in emerging AI and ML areas, making them highly competitive in the job market."
+      },
+      {
+        "intent": "get_aiml_faculty_research",
+        "question": "How does the AI & ML department leverage its faculty’s expertise for cutting-edge research?",
+        "patterns": [
+          "AI & ML faculty research",
+          "cutting-edge research in AI & ML",
+          "how AI & ML uses faculty expertise"
+        ],
+        "keywords": ["Faculty", "Expertise", "Research", "Innovation"],
+        "answer": "The AI & ML department leverages faculty expertise, such as Dr. Praveen Kumar Rao Kavikondala’s work in machine learning, to drive cutting-edge research, evidenced by patents and contributions to smart systems and agriculture."
+      },
+      {
+        "intent": "get_aiml_networking_infrastructure",
+        "question": "What networking and server infrastructure supports the AI & ML department’s laboratories?",
+        "patterns": [
+          "AI & ML lab networking",
+          "server infrastructure in AI & ML",
+          "AI & ML department network facilities"
+        ],
+        "keywords": ["Networking", "Servers", "Infrastructure", "Laboratories"],
+        "answer": "The AI & ML department’s laboratories are supported by LAN with Windows 2003 servers, HP Proliant servers (Intel Xeon, 16GB RAM), Mikrotik routers, and Cisco SG300, ensuring robust networking and computational capabilities."
+      }
+    ],
+    "kits": [
+      {
+        "intent": "get_kits_full_form",
+        "question": "What does KITS stand for?",
+        "patterns": [
+          "What is KITS full form",
+          "Name and location of KITS college",
+          "Meaning of KITS"
+        ],
+        "keywords": ["KITS", "Kamala Institute of Technology & Science", "location", "college name", "Singapur", "Huzurabad", "Karimnagar"],
+        "answer": "KITS stands for Kamala Institute of Technology & Science. It is located in Singapur, Huzurabad, Karimnagar, Telangana, India – 505468."
+      },
+      {
+        "intent": "get_kits_full_form_extended",
+        "question": "What does KITS stand for?",
+        "patterns": [
+          "Full form of KITS",
+          "KITS college name and location",
+          "What does KITS mean"
+        ],
+        "keywords": ["KITS", "full form", "location", "address", "college", "institute", "meaning"],
+        "answer": "KITS stands for Kamala Institute of Technology & Science. It is located in Singapur, Huzurabad, Karimnagar, Telangana, India – 505468. Kamala Institute of Technology & Science (KITS) is a private engineering institution located in Singapur village, Huzurabad, Karimnagar district, Telangana. The institute is affiliated with Jawaharlal Nehru Technological University Hyderabad (JNTUH), recognized by the University Grants Commission (UGC), and approved by the All India Council for Technical Education (AICTE)."
+      },
+      {
+        "intent": "get_kits_affiliation",
+        "question": "Is KITS affiliated with any university?",
+        "patterns": [
+          "KITS university affiliation",
+          "Approvals and accreditations of KITS",
+          "Is KITS recognized by AICTE or NAAC"
+        ],
+        "keywords": ["affiliation", "JNTUH", "AICTE", "NBA", "NAAC", "approvals", "accreditation", "ISO certification"],
+        "answer": "Yes, KITS is affiliated to JNTUH, approved by AICTE, accredited by NBA (EEE, ECE, CSE), and NAAC with A++ grade. It is also ISO 9001:2015 certified."
+      },
+      {
+        "intent": "get_kits_management",
+        "question": "Who manages KITS college?",
+        "patterns": [
+          "Key people in KITS administration",
+          "Name the Chairman, Principal, or Director of KITS",
+          "Who is in charge of KITS"
+        ],
+        "keywords": ["management", "key people", "Chairman", "Principal", "Director", "Executive Director", "administration"],
+        "answer": "The Chairman is Sri Capt. V. Lakshmikantha Rao, Executive Director is Mr. V. Indraneel, Principal is Dr. K. Eswaraiah, and the Director is Dr. K. Shanker."
+      },
+      {
+        "intent": "get_kits_director",
+        "question": "Who is the Director of KITS college?",
+        "patterns": [
+          "Name the Director of KITS",
+          "Who is KITS Director"
+        ],
+        "keywords": ["Director", "Dr. K. Shanker", "administration", "faculty"],
+        "answer": "The Director of KITS is Dr. K. Shanker, M.E(Geotech), Ph.D(IITK) MISTE, MIGS."
+      },
+      {
+        "intent": "get_kits_principal",
+        "question": "Can you name the Principal of KITS?",
+        "patterns": [
+          "Who is the Principal of KITS",
+          "Name the KITS Principal"
+        ],
+        "keywords": ["Principal", "KITS", "Dr. K. Eswaraiah", "head", "administration"],
+        "answer": "The Principal of KITS is Dr. K. Eswaraiah, M.E(Prod. Engg), Ph.D(NITW), MISTE"
+      },
+      {
+        "intent": "get_kits_executive_director",
+        "question": "Who is the Executive Director of KITS college?",
+        "patterns": [
+          "Name the Executive Director of KITS",
+          "Who is KITS Executive Director"
+        ],
+        "keywords": ["Executive Director", "Mr. V. Indraneel", "management", "administration"],
+        "answer": "The Executive Director of KITS is Mr. V. Indraneel (MS). He holds a Master's degree from the University of Southern California (USC), Los Angeles. He is also actively involved in the strategic planning and development of the institute."
+      },
+      {
+        "intent": "get_kits_chairman",
+        "question": "Who is the Chairman of KITS college?",
+        "patterns": [
+          "Name the Chairman of KITS",
+          "Who is KITS Chairman"
+        ],
+        "keywords": ["Chairman", "Sri Capt. V. Lakshmikantha Rao", "founder", "Vodithala Education Society", "management"],
+        "answer": "The Chairman of Kamala Institute of Technology & Science (KITS), Singapur, is Sri Capt. V. Laxmikantha Rao. He is a retired Indian Army officer and a former Member of Parliament. Capt. V. Laxmikantha Rao is the founder of the Vodithala Education Society, which established KITS in 1997 with the vision of providing quality technical education in the region. Under his leadership, KITS has grown into a reputed institution affiliated with Jawaharlal Nehru Technological University, Hyderabad (JNTUH)."
+      },
+      {
+        "intent": "get_kits_vision",
+        "question": "What is the vision of KITS?",
+        "patterns": [
+          "KITS vision statement",
+          "Goals of KITS",
+          "What is KITS aiming for"
+        ],
+        "keywords": ["vision", "goals", "vision statement", "objective", "future"],
+        "answer": "KITS aims to deliver top-notch technical education, nurture leadership qualities, and empower students with global competitiveness."
+      },
+      {
+        "intent": "get_kits_mission",
+        "question": "What is the mission of KITS?",
+        "patterns": [
+          "KITS mission statement",
+          "What is KITS trying to achieve",
+          "Educational philosophy of KITS"
+        ],
+        "keywords": ["mission", "purpose", "educational philosophy", "achievement", "goals"],
+        "answer": "KITS promotes innovation, character building, and academic excellence while keeping a local and global perspective in mind."
+      },
+      {
+        "intent": "get_kits_campus_radio",
+        "question": "What is KamalaVaani?",
+        "patterns": [
+          "Does KITS have a campus radio",
+          "How KITS shares updates",
+          "What is KITS radio"
+        ],
+        "keywords": ["KamalaVaani", "campus radio", "updates", "broadcast", "communication", "internet radio"],
+        "answer": "KamalaVaani is KITS's own internet-based campus radio that shares updates, interviews, tech tips, and entertainment from 8:30 AM to 8:30 PM."
+      },
+      {
+        "intent": "get_kits_nss",
+        "question": "Does KITS have NSS activities?",
+        "patterns": [
+          "KITS social work contributions",
+          "Villages adopted by KITS NSS",
+          "NSS programs at KITS"
+        ],
+        "keywords": ["NSS", "social work", "village adoption", "outreach", "camps", "student service"],
+        "answer": "KITS has NSS units established in 2013, adopting 5 villages, organizing camps, health awareness programs, and student outreach."
+      },
+      {
+        "intent": "get_kits_ncc",
+        "question": "Does KITS offer NCC training?",
+        "patterns": [
+          "NCC units at KITS",
+          "How KITS supports cadet development",
+          "KITS NCC programs"
+        ],
+        "keywords": ["NCC", "cadets", "training", "battalion", "camp", "discipline"],
+        "answer": "KITS has two NCC units under the 9 Telangana Battalion with 100+ cadets. They participate in training camps and national-level events."
+      },
+      {
+        "intent": "get_kits_sports_facilities",
+        "question": "What sports facilities are available at KITS?",
+        "patterns": [
+          "Does KITS support sports and games",
+          "Indoor and outdoor sports at KITS",
+          "KITS sports infrastructure"
+        ],
+        "keywords": ["sports", "games", "indoor", "outdoor", "facilities", "gym", "cricket", "basketball", "volleyball", "kabaddi"],
+        "answer": "KITS offers a large outdoor ground, an indoor stadium, gym, and facilities for cricket, volleyball, basketball, shuttle badminton, kabaddi and more."
+      },
+      {
+        "intent": "get_kits_library",
+        "question": "What are the library facilities at KITS?",
+        "patterns": [
+          "Does KITS have a digital library",
+          "Books and journals in KITS library",
+          "KITS library resources"
+        ],
+        "keywords": ["library", "books", "journals", "digital", "reading", "facility", "timings", "resources", "collection", "e-resources"],
+        "answer": "KITS library spans 730 sqm with over 48,000 books, 513 e-journals, and a dedicated digital library. It remains open from 9 AM to 7 PM on working days."
+      },
+      {
+        "intent": "get_kits_hostel_admin",
+        "question": "Who is responsible for the hostel administration at KITS?",
+        "patterns": [
+          "KITS hostel wardens",
+          "Who manages KITS hostels"
+        ],
+        "keywords": ["administration", "hostel", "warden"],
+        "answer": "The Chief Warden is Dr. K. Shanker. The Senior Warden (Boys) is Dr. Ravindra Babu Kallam, and the Senior Warden (Girls) is Dr. Y.Y. Pundalik."
+      },
+      {
+        "intent": "get_kits_sports_council",
+        "question": "Does KITS have a sports council or committee?",
+        "patterns": [
+          "KITS sports committee",
+          "Sports management at KITS"
+        ],
+        "keywords": ["sports council", "sports committee", "KITS Singapur", "sports management"],
+        "answer": "Yes, KITS has a dedicated sports council that manages and organizes sports activities and events. The sports council ensures the smooth functioning of various competitions, training sessions, and the participation of students in inter-college sports events. It also collaborates with the physical education department to promote sports culture in the college."
+      },
+      {
+        "intent": "get_kits_infrastructure",
+        "question": "What infrastructure facilities does KITS provide?",
+        "patterns": [
+          "KITS campus facilities",
+          "Buildings and amenities at KITS"
+        ],
+        "keywords": ["infrastructure", "facilities", "KITS Singapur", "buildings", "campus", "amenities"],
+        "answer": "KITS offers state-of-the-art infrastructure, including well-equipped classrooms, laboratories, hostels, sports facilities, and an advanced library. The campus has Wi-Fi connectivity, a digital library, seminar halls, and modern teaching aids. The campus is designed to provide a comfortable and conducive learning environment for students."
+      },
+      {
+        "intent": "get_kits_classrooms",
+        "question": "Does KITS have modern classrooms and lecture halls?",
+        "patterns": [
+          "KITS classroom facilities",
+          "Lecture halls at KITS"
+        ],
+        "keywords": ["classrooms", "lecture halls", "modern", "KITS Singapur", "facilities"],
+        "answer": "Yes, KITS has modern classrooms and well-furnished lecture halls equipped with projectors, smart boards, and Wi-Fi. The classrooms are designed to facilitate interactive learning and provide a comfortable environment for students and faculty."
+      },
+      {
+        "intent": "get_kits_labs",
+        "question": "What lab facilities are available at KITS?",
+        "patterns": [
+          "KITS laboratory facilities",
+          "Research labs at KITS"
+        ],
+        "keywords": ["labs", "laboratories", "KITS Singapur", "departmental labs", "research facilities"],
+        "answer": "KITS has well-equipped laboratories for all departments, including Civil Engineering, Mechanical Engineering, Electrical & Electronics Engineering, Computer Science & Engineering, and more. These labs are equipped with the latest technology and tools to facilitate practical learning and research activities."
+      },
+      {
+        "intent": "get_kits_hostels",
+        "question": "Does KITS have hostel facilities?",
+        "patterns": [
+          "KITS student accommodation",
+          "Hostel facilities at KITS"
+        ],
+        "keywords": ["hostels", "accommodation", "KITS Singapur", "student hostels", "living facilities"],
+        "answer": "Yes, KITS provides hostel facilities for both boys and girls. The hostels are well-maintained with amenities such as 24/7 water and electricity supply, Wi-Fi connectivity, mess facilities, and recreational areas to ensure a comfortable stay for students."
+      },
+      {
+        "intent": "get_kits_computer_facilities",
+        "question": "What type of computer and internet facilities are available at KITS?",
+        "patterns": [
+          "KITS computer labs",
+          "Internet facilities at KITS"
+        ],
+        "keywords": ["computer facilities", "internet", "KITS Singapur", "Wi-Fi", "computing resources"],
+        "answer": "KITS provides modern computer labs with high-speed internet and Wi-Fi connectivity across the campus. The computer labs are well-equipped with the latest software and hardware to support various academic and research activities."
+      },
+      {
+        "intent": "get_kits_transportation",
+        "question": "Does KITS provide transportation services?",
+        "patterns": [
+          "KITS student transport",
+          "Campus commute at KITS"
+        ],
+        "keywords": ["transportation", "buses", "KITS Singapur", "campus commute", "student transport"],
+        "answer": "Yes, KITS offers transportation services for students and staff. The college operates a fleet of buses that connect the campus to various parts of the city and nearby areas, ensuring easy access to the campus for daily commuting."
+      },
+      {
+        "intent": "get_kits_eco_friendly",
+        "question": "Is KITS campus eco-friendly?",
+        "patterns": [
+          "KITS green campus",
+          "Sustainable practices at KITS"
+        ],
+        "keywords": ["eco-friendly", "green campus", "KITS Singapur", "sustainable practices"],
+        "answer": "Yes, KITS is committed to sustainability and maintaining an eco-friendly campus. The college implements various green initiatives like rainwater harvesting, waste management, and energy-efficient practices to reduce its environmental impact."
+      },
+      {
+        "intent": "get_kits_cafeteria",
+        "question": "Does KITS have a cafeteria or food court?",
+        "patterns": [
+          "KITS dining facilities",
+          "Food court at KITS"
+        ],
+        "keywords": ["cafeteria", "food court", "mess", "KITS Singapur", "student dining"],
+        "answer": "Yes, KITS has a well-maintained cafeteria and mess facilities that provide a variety of healthy and nutritious food options to students and staff. The food court caters to different tastes, offering both vegetarian and non-vegetarian meals."
+      }
+    ],
+    "cse": [
+      {
+        "intent": "get_cse_achievements",
+        "question": "Tell me about the achievements of students and alumni in the Computer Science & Engineering department at KITS, Singapur.",
+        "patterns": [
+          "CSE student achievements at KITS",
+          "KITS CSE alumni accomplishments"
+        ],
+        "keywords": ["student achievements", "alumni achievements", "KITS Singapur", "Smart Electricity Bill Estimator", "BugCrowd", "paper publication"],
+        "answer": "The students and alumni of the Computer Science & Engineering department at KITS, Singapur have achieved remarkable feats. Ms. A. Navya, Ms. K. Srija, Ms. P. Reethu Raman, and Mr. R. Rahul were selected as one of the top ten teams for ideating and designing the 'Smart Electricity Bill Estimator' in the 'MAKE N MARKET' program at SR Engineering College. Ms. Anvitha from CSE was placed as a Systems Engineer at Infosys. Alumni Mr. Venkata Sai Teja Thadishetty and Mr. Ajaykumar Sriramoju started a software company 'BLUE RAPTORS TECHNOLOGY PRIVATE LIMITED'. R. Prashanth received Rs. 3238.60 (50$) for finding a bug in online testing in BugCrowd. G. Pavan Kumar published a paper titled 'Enhanced Hybrid LRU Page Replacement Algorithm' in IJARCSSE, Jan 2016."
+      }
+    ]
+  }
+}

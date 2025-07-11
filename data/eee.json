@@ -1,0 +1,268 @@
+{
+  "eee": [
+    {
+      "intent": "get_eee_establishment",
+      "question": "When was the Electrical and Electronics Engineering department at KITS established?",
+      "patterns": [
+        "When was KITS EEE department founded",
+        "Establishment year of KITS EEE",
+        "KITS EEE department start date"
+      ],
+      "keywords": ["established", "EEE", "KITS", "year"],
+      "answer": "The Electrical and Electronics Engineering department at KITS was established in the year 1997."
+    },
+    {
+      "intent": "get_eee_intake",
+      "question": "What is the intake capacity of the Electrical and Electronics Engineering department?",
+      "patterns": [
+        "KITS EEE student intake",
+        "Capacity of KITS EEE department",
+        "How many students in KITS EEE"
+      ],
+      "keywords": ["intake", "EEE", "capacity", "students"],
+      "answer": "The department has an intake of 60 students, with an additional 10% students joining directly in the second year every academic year."
+    },
+    {
+      "intent": "get_eee_accreditation",
+      "question": "Is the Electrical and Electronics Engineering department at KITS accredited?",
+      "patterns": [
+        "Is KITS EEE accredited",
+        "Accreditation status of KITS EEE",
+        "KITS EEE NBA accreditation"
+      ],
+      "keywords": ["accredited", "EEE", "KITS"],
+      "answer": "Yes, the Electrical and Electronics Engineering department at KITS is accredited by the National Board of Accreditation (NBA)."
+    },
+    {
+      "intent": "get_eee_student_association",
+      "question": "What is the name of the students' association in the Electrical and Electronics Engineering department?",
+      "patterns": [
+        "KITS EEE student association name",
+        "What is KESA in KITS EEE",
+        "EEE department student group"
+      ],
+      "keywords": ["students association", "EEE", "KESA"],
+      "answer": "The students' association in the Electrical and Electronics Engineering department is called KESA (KITS Electrical Students Association)."
+    },
+    {
+      "intent": "get_eee_kesa_activities",
+      "question": "What type of activities does KESA promote?",
+      "patterns": [
+        "Activities by KESA in KITS EEE",
+        "KITS EEE student association events",
+        "KESA co-curricular programs"
+      ],
+      "keywords": ["KESA", "activities", "co-curricular", "extra-curricular"],
+      "answer": "KESA promotes co-curricular and extra-curricular activities to help students develop their overall personality. Students also participate in games and sports, hackathons, paper presentations, and quizzes."
+    },
+    {
+      "intent": "get_eee_industry_visits",
+      "question": "What are some of the industry visits organized by the Electrical and Electronics Engineering department?",
+      "patterns": [
+        "KITS EEE industry visits",
+        "Power plant visits by KITS EEE",
+        "EEE department field trips"
+      ],
+      "keywords": ["industry visits", "EEE", "department", "power plants", "NTPC"],
+      "answer": "The department organizes industry visits to nearby substations, electrical manufacturing companies, and power plants, including NTPC, Ramagundam, KTPP Bupalpally, NPDCL, SPDCL, and several hydel power plants."
+    },
+    {
+      "intent": "get_eee_alumni_companies",
+      "question": "Can you name some companies where the alumni of the Electrical and Electronics Engineering department are working?",
+      "patterns": [
+        "Companies hiring KITS EEE alumni",
+        "KITS EEE alumni employers",
+        "Where do KITS EEE graduates work"
+      ],
+      "keywords": ["alumni", "companies", "EEE", "employment"],
+      "answer": "Alumni from the Electrical and Electronics Engineering department are working in both core and software industries such as NTPC, TRANSOs, GENCOs, OBLUM Electrical Industries Pvt. Ltd., Keolis Company, HITACHI, MEDHA Servo Drives Pvt. Ltd., TCS, Infosys, TECH Mahindra, and Wipro."
+    },
+    {
+      "intent": "get_eee_student_projects",
+      "question": "What are the major projects undertaken by students in the Electrical and Electronics Engineering department?",
+      "patterns": [
+        "KITS EEE student projects",
+        "Major projects by KITS EEE students",
+        "EEE department student innovations"
+      ],
+      "keywords": ["student major projects", "EEE", "projects", "engineering"],
+      "answer": "Some major student projects include topics like solar-powered smart irrigation systems, wind turbine modeling, home automation using Arduino, solar inverter for rural electrification, power quality monitoring using IoT, and underground cable fault detection using GSM."
+    },
+    {
+      "intent": "get_eee_student_achievements",
+      "question": "What are the notable student achievements in the Electrical and Electronics Engineering department?",
+      "patterns": [
+        "KITS EEE student accomplishments",
+        "Awards won by KITS EEE students",
+        "EEE department student successes"
+      ],
+      "keywords": ["student achievements", "EEE", "awards"],
+      "answer": "Notable student achievements include Mr. Y. Srujan Reddy, who received a Gold Medal from Dr. Tamilisai Soundararajan, Governor of Telangana, during the X convocation at JNTUH on 26-02-2022. P. Akash Deep, a NSS volunteer, also received the Youth Worker Award."
+    },
+    {
+      "intent": "get_eee_labs",
+      "question": "What labs are available in the Electrical and Electronics Engineering department at KITS?",
+      "patterns": [
+        "KITS EEE lab facilities",
+        "Laboratories in KITS EEE department",
+        "EEE department lab equipment"
+      ],
+      "keywords": ["labs", "facilities", "EEE", "department"],
+      "answer": "The department offers several labs, including: \n1. Electrical Circuit Analysis Laboratory \n2. Electrical Machines Laboratory-I & II \n3. Electrical Simulation Tools Laboratory \n4. Measurements and Instrumentation Laboratory \n5. Power Electronics Laboratory \n6. Power System Laboratory \n7. Control Systems Laboratory \n8. Simulation of Renewable Energy Systems Laboratory \n9. Power System Simulation Lab \n10. Electrical & Electronics Design Lab"
+    },
+    {
+      "intent": "get_eee_vision",
+      "question": "What is the vision of the Electrical and Electronics Engineering department?",
+      "patterns": [
+        "Vision of KITS EEE department",
+        "Goals of KITS EEE",
+        "EEE department mission statement"
+      ],
+      "keywords": ["vision", "EEE", "department"],
+      "answer": "The vision of the department is to excel in Electrical and Electronics Engineering education with a focus on research to create professionals with creative minds, innovative ideas, and practical skills for the betterment of mankind."
+    },
+    {
+      "intent": "get_eee_mission",
+      "question": "What are the key missions of the Electrical and Electronics Engineering department?",
+      "patterns": [
+        "Mission of KITS EEE department",
+        "Objectives of KITS EEE",
+        "EEE department mission goals"
+      ],
+      "keywords": ["mission", "EEE", "department"],
+      "answer": "The department's missions are: \nM1: To advance knowledge and academic discipline among students and faculty for sustained professional growth. \nM2: To develop and disseminate theoretical and practical knowledge in Electrical and Electronics Engineering. \nM3: To instill a high degree of professional and social ethics in students for creating successful engineers."
+    },
+    {
+      "intent": "get_eee_pundlik_role",
+      "question": "Who is the Head of the Electrical and Electronics Engineering department at KITS, and what is Dr. Yogesh Y. Pundlik's role and experience?",
+      "patterns": [
+        "Who is the head of KITS EEE department",
+        "Dr. Yogesh Pundlik role at KITS",
+        "Experience of KITS EEE head"
+      ],
+      "keywords": ["Head", "Dr. Yogesh Pundlik", "Dean of Student Affairs", "HOD-EEE", "experience", "KITS"],
+      "answer": "Dr. Yogesh Y. Pundlik serves as both the Head of the Electrical and Electronics Engineering department and the Dean of Student Affairs at KITS. He holds a Ph.D. and has 25 years and 4 months of experience in the field of Electrical and Electronics Engineering."
+    },
+    {
+      "intent": "get_eee_associate_professor",
+      "question": "Who is the Associate Professor in the Electrical and Electronics Engineering department?",
+      "patterns": [
+        "KITS EEE associate professor",
+        "Who is the associate professor in KITS EEE",
+        "EEE department faculty roles"
+      ],
+      "keywords": ["Associate Professor", "faculty", "EEE", "KITS"],
+      "answer": "Dr. Dugyala Venugopal is an Associate Professor in the Electrical and Electronics Engineering department at KITS, with 22 years of experience and a Ph.D."
+    },
+    {
+      "intent": "get_eee_thummala_qualification",
+      "question": "What is the qualification and experience of Mr. Thummala Raju?",
+      "patterns": [
+        "Mr. Thummala Raju qualifications",
+        "Experience of Thummala Raju in KITS EEE",
+        "KITS EEE faculty credentials"
+      ],
+      "keywords": ["Mr. Thummala Raju", "faculty", "qualification", "experience"],
+      "answer": "Mr. Thummala Raju is an Assistant Professor in the Electrical and Electronics Engineering department at KITS, with an M.Tech qualification and 15 years and 10 months of experience."
+    },
+    {
+      "intent": "get_eee_doctorates",
+      "question": "How many doctorates are there in the Electrical and Electronics Engineering department?",
+      "patterns": [
+        "Number of Ph.D.s in KITS EEE",
+        "KITS EEE faculty doctorates",
+        "EEE department Ph.D. count"
+      ],
+      "keywords": ["doctorates", "faculty", "EEE"],
+      "answer": "The Electrical and Electronics Engineering department has two faculty members with Ph.D. degrees."
+    },
+    {
+      "intent": "get_eee_ramreddy_qualification",
+      "question": "What is the qualification of Mr. Peddi Ramreddy?",
+      "patterns": [
+        "Mr. Peddi Ramreddy qualifications",
+        "KITS EEE Ramreddy credentials",
+        "Peddi Ramreddy academic profile"
+      ],
+      "keywords": ["Mr. Peddi Ramreddy", "qualification", "faculty", "EEE"],
+      "answer": "Mr. Peddi Ramreddy holds an M.Tech degree and is pursuing a Ph.D. He has 14 years and 9 months of experience in the Electrical and Electronics Engineering department."
+    },
+    {
+      "intent": "get_eee_allam_joining",
+      "question": "When did Mr. Thirupathi Allam join the Electrical and Electronics Engineering department?",
+      "patterns": [
+        "Thirupathi Allam joining date KITS EEE",
+        "When did Allam join KITS EEE",
+        "EEE faculty joining dates"
+      ],
+      "keywords": ["Mr. Thirupathi Allam", "joining date", "faculty", "EEE"],
+      "answer": "Mr. Thirupathi Allam joined the Electrical and Electronics Engineering department at KITS on 25th June 2012."
+    },
+    {
+      "intent": "get_eee_least_experienced_professor",
+      "question": "Who is the Assistant Professor with the least experience in the Electrical and Electronics Engineering department?",
+      "patterns": [
+        "Least experienced professor in KITS EEE",
+        "KITS EEE assistant professor experience",
+        "Newest EEE faculty member"
+      ],
+      "keywords": ["least experience", "assistant professor", "faculty", "EEE"],
+      "answer": "Ms. Sumathi Goshikonda is the Assistant Professor with the least experience in the Electrical and Electronics Engineering department, having 4 years and 8 months of experience."
+    },
+    {
+      "intent": "get_eee_renewable_energy_lab",
+      "question": "Which lab in the Electrical and Electronics Engineering department focuses on renewable energy systems?",
+      "patterns": [
+        "KITS EEE renewable energy lab",
+        "Renewable energy focus in KITS EEE",
+        "EEE department green energy lab"
+      ],
+      "keywords": ["lab", "renewable energy", "EEE", "department"],
+      "answer": "The Simulation of Renewable Energy Systems Laboratory focuses on renewable energy systems in the Electrical and Electronics Engineering department."
+    },
+    {
+      "intent": "get_eee_machines_lab",
+      "question": "Which laboratory in the Electrical and Electronics Engineering department focuses on electrical machine testing?",
+      "patterns": [
+        "KITS EEE electrical machines lab",
+        "Electrical machine testing in KITS EEE",
+        "EEE department machine lab"
+      ],
+      "keywords": ["lab", "electrical machine", "testing", "EEE"],
+      "answer": "The Electrical Machines Laboratory-I & II focuses on electrical machine testing and experimentation in the Electrical and Electronics Engineering department."
+    },
+    {
+      "intent": "get_eee_power_electronics_lab",
+      "question": "What is the focus of the Power Electronics Laboratory in the Electrical and Electronics Engineering department?",
+      "patterns": [
+        "KITS EEE power electronics lab focus",
+        "Purpose of power electronics lab in KITS EEE",
+        "EEE department power electronics study"
+      ],
+      "keywords": ["Power Electronics Laboratory", "focus", "EEE", "department"],
+      "answer": "The Power Electronics Laboratory focuses on the study and experimentation of power electronic devices and circuits, such as inverters, converters, and motor drives in the Electrical and Electronics Engineering department."
+    },
+    {
+      "intent": "get_eee_circuit_analysis_lab",
+      "question": "What is the purpose of the Electrical Circuit Analysis Laboratory in the Electrical and Electronics Engineering department?",
+      "patterns": [
+        "Purpose of KITS EEE circuit analysis lab",
+        "KITS EEE circuit lab focus",
+        "EEE department circuit analysis study"
+      ],
+      "keywords": ["Electrical Circuit Analysis Laboratory", "purpose", "EEE", "department"],
+      "answer": "The Electrical Circuit Analysis Laboratory is designed to help students understand and analyze electrical circuits, their behavior, and their components using practical tools and simulation software."
+    },
+    {
+      "intent": "get_eee_control_systems_lab",
+      "question": "Which lab in the Electrical and Electronics Engineering department focuses on control systems?",
+      "patterns": [
+        "KITS EEE control systems lab",
+        "Control systems focus in KITS EEE",
+        "EEE department control systems study"
+      ],
+      "keywords": ["Control Systems Laboratory", "focus", "EEE", "department"],
+      "answer": "The Control Systems Laboratory in the Electrical and Electronics Engineering department focuses on the study of control systems, including their modeling, simulation, and real-time implementation."
+    }
+  ]
+}

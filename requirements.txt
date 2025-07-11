@@ -1,0 +1,10 @@
+Flask
+requests
+python-dotenv
+python-dotenv
+nltk 
+fuzzywuzzy
+scikit-learn 
+python-Levenshtein
+sentence-transformers
+numpy

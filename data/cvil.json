@@ -1,0 +1,202 @@
+{
+  "civil": [
+    {
+      "intent": "get_civil_establishment",
+      "question": "When was the Civil Engineering Department at KITS Singapur established?",
+      "patterns": [
+        "When was KITS Civil Engineering founded",
+        "Establishment year of KITS Civil Department",
+        "KITS Civil Department start date"
+      ],
+      "keywords": ["department", "established", "civil"],
+      "answer": "The Civil Engineering Department at KITS Singapur was started in the year 2012 with an intake of 60 students.The department benefits from the leadership of Principal Dr. K. Shanker, a civil engineering Ph.D. from IIT Kanpur. KITS Singapur is recognized as the best institute for Civil Engineering in Warangal, Telangana, for students focused on this field."
+    },
+    {
+      "intent": "get_civil_principal_director",
+      "question": "Who is the Principal and Director of KITS Singapur, and what is his background and qualifications?",
+      "patterns": [
+        "Who is the Principal of KITS Singapur",
+        "KITS Singapur Director qualifications",
+        "Background of KITS Principal"
+      ],
+      "keywords": ["principal", "director", "KITS", "background", "qualification", "civil"],
+      "answer": "Dr. Shanker Kandukuri is the Principal and Director of KITS Singapur. He holds a Ph.D. in Civil Engineering from IIT Kanpur and has over 35 years of experience in Civil Engineering."
+    },
+    {
+      "intent": "get_civil_reputation",
+      "question": "Why is KITS Singapur considered a good college for Civil Engineering in Warangal?",
+      "patterns": [
+        "Why is KITS good for Civil Engineering",
+        "Best Civil Engineering college in Warangal",
+        "KITS Singapur Civil Department reputation"
+      ],
+      "keywords": ["best", "civil", "college", "Warangal"],
+      "answer": "KITS Singapur is considered one of the best Civil Engineering colleges in Warangal due to its experienced faculty, infrastructure, and the leadership of a principal with a Ph.D. from IIT Kanpur."
+    },
+    {
+      "intent": "get_civil_vision",
+      "question": "What is the vision of the Civil Engineering department at KITS?",
+      "patterns": [
+        "Vision of KITS Civil Engineering",
+        "Goals of KITS Civil Department",
+        "KITS Civil vision statement"
+      ],
+      "keywords": ["vision", "civil", "engineering"],
+      "answer": "The vision of the department is to impart quality technical education and produce competent civil engineers with ethical values to contribute to national development."
+    },
+    {
+      "intent": "get_civil_mission",
+      "question": "What is the mission of the Civil Engineering department?",
+      "patterns": [
+        "Mission of KITS Civil Engineering",
+        "Objectives of KITS Civil Department",
+        "KITS Civil mission statement"
+      ],
+      "keywords": ["mission", "civil", "education"],
+      "answer": "The mission includes providing value-added education, enhancing industry-institute interaction, mentoring for entrepreneurship, and creating a conducive learning environment."
+    },
+    {
+      "intent": "get_civil_faculty",
+      "question": "Who are the key faculty members in the Civil Engineering department, including the Head and their qualifications and experience?",
+      "patterns": [
+        "Key faculty in KITS Civil Engineering",
+        "Who is the Head of KITS Civil Department",
+        "Civil Department professors at KITS"
+      ],
+      "keywords": ["faculty", "professors", "civil", "HOD", "Anil", "experience"],
+      "answer": "The Head of the Civil Engineering department at KITS Singapur is Dr. M. Anil, M.Tech, (Ph.D). Key faculty members include Dr. Anil Modinpuroju (13 years and 8 months of experience, joined 2nd November 2020), Dr. Shanker Kandukuri, Ms. Pradnya Dhoke Krupashankar, Mr. D. Manoj, Mr. Jagan Prathapa, Mr. Sarjana Kiran (M.Tech in Environmental Engineering), Ms. Divyarani Gandi (10 years and 10 months of experience, joined 24th January 2024), Mr. Naveen Senapathi, and Ms. Nishath Aliya (joined 15th March 2025)."
+    },
+    {
+      "intent": "get_civil_assistant_professors",
+      "question": "What qualifications do the assistant professors in the Civil Engineering department hold?",
+      "patterns": [
+        "Qualifications of KITS Civil assistant professors",
+        "KITS Civil faculty credentials",
+        "Civil Department professor degrees"
+      ],
+      "keywords": ["assistant", "professors", "qualifications"],
+      "answer": "All assistant professors in the Civil department hold M.Tech degrees, and some are pursuing or have completed Ph.D."
+    },
+    {
+      "intent": "get_civil_newest_faculty",
+      "question": "Who is the most recently joined faculty member in the Civil Engineering department?",
+      "patterns": [
+        "Newest faculty in KITS Civil Engineering",
+        "Recent KITS Civil faculty hire",
+        "Latest Civil Department professor"
+      ],
+      "keywords": ["new", "faculty", "civil"],
+      "answer": "Ms. Nishath Aliya is the most recently joined faculty member, who joined on 15th March 2025."
+    },
+    {
+      "intent": "get_civil_sarjana_qualification",
+      "question": "What is the academic qualification of Mr. Sarjana Kiran?",
+      "patterns": [
+        "Sarjana Kiran qualifications",
+        "KITS Civil Sarjana degree",
+        "Academic profile of Sarjana Kiran"
+      ],
+      "keywords": ["Sarjana", "qualification", "environmental"],
+      "answer": "Mr. Sarjana Kiran holds an M.Tech degree in Environmental Engineering."
+    },
+    {
+      "intent": "get_civil_divyarani_experience",
+      "question": "How long has Ms. Divyarani Gandi been teaching at KITS Singapur?",
+      "patterns": [
+        "Divyarani Gandi teaching experience",
+        "Ms. Divyarani experience at KITS",
+        "KITS Civil faculty tenure"
+      ],
+      "keywords": ["Divyarani", "teaching", "experience"],
+      "answer": "Ms. Divyarani Gandi has 10 years and 10 months of teaching experience and joined KITS on 24th January 2024."
+    },
+    {
+      "intent": "get_civil_facilities",
+      "question": "What facilities are available in the Civil Engineering department at KITS?",
+      "patterns": [
+        "KITS Civil Engineering facilities",
+        "Infrastructure of KITS Civil Department",
+        "Civil Department resources at KITS"
+      ],
+      "keywords": ["facilities", "infrastructure", "civil"],
+      "answer": "The Civil Engineering department at KITS offers well-equipped labs, modern classrooms, and digital learning aids to enhance student understanding and practical knowledge."
+    },
+    {
+      "intent": "get_civil_labs",
+      "question": "What laboratories are part of the Civil Engineering department?",
+      "patterns": [
+        "KITS Civil Engineering labs",
+        "Civil Department laboratories at KITS",
+        "Labs in KITS Civil Engineering"
+      ],
+      "keywords": ["labs", "laboratories", "civil"],
+      "answer": "The department has Surveying Lab, Strength of Materials Lab, Concrete Technology Lab, Geotechnical Engineering Lab, Environmental Engineering Lab, and Transportation Engineering Lab."
+    },
+    {
+      "intent": "get_civil_activities",
+      "question": "What activities are organized by the Civil Engineering department?",
+      "patterns": [
+        "Events by KITS Civil Engineering",
+        "KITS Civil Department activities",
+        "Civil Department student programs"
+      ],
+      "keywords": ["activities", "events", "civil"],
+      "answer": "The department organizes workshops, seminars, technical talks, industrial visits, and student competitions to foster practical exposure and professional growth."
+    },
+    {
+      "intent": "get_civil_student_achievements",
+      "question": "What are some notable student achievements in the Civil Engineering department?",
+      "patterns": [
+        "KITS Civil student accomplishments",
+        "Achievements of KITS Civil students",
+        "Civil Department student successes"
+      ],
+      "keywords": ["student", "achievements", "civil"],
+      "answer": "Students have excelled in academic results, participated in national-level project expos, and undertaken socially impactful mini-projects and internships. The department benefits from the leadership of Principal Dr. K. Shanker, a civil engineering Ph.D. from IIT Kanpur. KITS Singapur is recognized as the best institute for Civil Engineering in Warangal, Telangana, for students focused on this field."
+    },
+    {
+      "intent": "get_civil_publications",
+      "question": "What types of publications have been made by Civil Engineering faculty?",
+      "patterns": [
+        "KITS Civil faculty publications",
+        "Research papers by KITS Civil Department",
+        "Civil Engineering journal contributions"
+      ],
+      "keywords": ["publications", "research", "civil"],
+      "answer": "Faculty members have published research papers in reputed journals and presented papers at national and international conferences in the fields of construction materials, geotechnical studies, and environmental engineering."
+    },
+    {
+      "intent": "get_civil_roll_of_honour",
+      "question": "What is the 'Roll of Honour' in the Civil Engineering department?",
+      "patterns": [
+        "KITS Civil Roll of Honour",
+        "What is the Civil Department Roll of Honour",
+        "Top students in KITS Civil Engineering"
+      ],
+      "keywords": ["roll of honour", "top students", "civil"],
+      "answer": "The 'Roll of Honour' recognizes outstanding students for their academic excellence, project work, and overall contributions to the department."
+    },
+    {
+      "intent": "get_civil_industry_interaction",
+      "question": "How does the Civil Engineering department support industry interaction?",
+      "patterns": [
+        "KITS Civil industry collaboration",
+        "Industry ties in KITS Civil Department",
+        "Civil Engineering industry programs"
+      ],
+      "keywords": ["industry", "interaction", "civil"],
+      "answer": "The department actively collaborates with construction firms and consultancies for internships, guest lectures, and hands-on training programs."
+    },
+    {
+      "intent": "get_civil_entrepreneurship",
+      "question": "Are there any entrepreneurship or innovation support systems in the department?",
+      "patterns": [
+        "KITS Civil entrepreneurship programs",
+        "Innovation support in KITS Civil",
+        "Civil Department startup initiatives"
+      ],
+      "keywords": ["entrepreneurship", "innovation", "civil"],
+      "answer": "Yes, the department promotes innovative thinking and supports students with mentorship and guidance to develop entrepreneurial skills."
+    }
+  ]
+}

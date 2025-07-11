@@ -1,0 +1,466 @@
+{
+  "cse": [
+    {
+      "intent": "get_cse_history",
+      "question": "What is the history and accreditation status of the CSE department at KITS College?",
+      "patterns": [
+        "History of KITS CSE department",
+        "When was KITS CSE established",
+        "Accreditation status of KITS CSE"
+      ],
+      "keywords": ["History", "Accreditation", "NBA", "Intake", "Establishment"],
+      "answer": "The CSE department at KITS College was established in 1997 with an initial intake of 40 students for B.Tech CSE, later increased to 120 and then to 180. Now it is 240. It is accredited by the National Board of Accreditation (NBA)."
+    },
+    {
+      "intent": "get_cse_lab_facilities",
+      "question": "What are the key facilities available in the CSE department's laboratories?",
+      "patterns": [
+        "KITS CSE lab facilities",
+        "Equipment in KITS CSE laboratories",
+        "CSE department lab infrastructure"
+      ],
+      "keywords": ["Laboratories", "Facilities", "Internet", "Systems", "UPS"],
+      "answer": "The CSE department's laboratories are equipped with high-configuration systems, connected via LAN with 500Mbps internet, supported by UPS systems (10kVA to 15kVA) with 30-minute backup, and include specialized labs like Computer Programming, Networks, Web Development, and Software Engineering."
+    },
+    {
+      "intent": "get_cse_vision",
+      "question": "What is the vision of the CSE department at KITS College?",
+      "patterns": [
+        "Vision statement of KITS CSE",
+        "Goals of KITS CSE department",
+        "KITS CSE department objectives"
+      ],
+      "keywords": ["Vision", "Professional Excellence", "Global Competitiveness", "Social Responsibility"],
+      "answer": "The vision of the CSE department is to produce professionally excellent, knowledgeable, globally competitive, and socially responsible engineers and entrepreneurs."
+    },
+    {
+      "intent": "get_cse_mission",
+      "question": "What are the mission objectives of the CSE department?",
+      "patterns": [
+        "Mission of KITS CSE department",
+        "Objectives of KITS CSE",
+        "KITS CSE mission statement"
+      ],
+      "keywords": ["Mission", "Quality Education", "Industry Interaction", "Innovation", "Ethics"],
+      "answer": "The mission objectives include imparting quality technical education, fostering industry-institute interaction, instilling professional behavior and ethics, and promoting innovation through research in Computer Science and Engineering."
+    },
+    {
+      "intent": "get_cse_faculty_qualifications",
+      "question": "What qualifications and experience do the faculty members of the CSE department possess?",
+      "patterns": [
+        "KITS CSE faculty qualifications",
+        "Experience of KITS CSE faculty",
+        "CSE department faculty credentials"
+      ],
+      "keywords": ["Faculty", "Qualifications", "Experience", "Ph.D.", "M.Tech"],
+      "answer": "The CSE department faculty are highly qualified, with most holding Ph.D. or M.Tech degrees, and an average experience of over 12 years. Notable faculty include Dr. Ravindra Babu Kallam (Professor & Head, 26+ years) and Dr. Sunitha Dodda (Associate Professor, 18+ years)."
+    },
+    {
+      "intent": "get_cse_research_publications",
+      "question": "What types of research publications have been produced by the CSE department faculty?",
+      "patterns": [
+        "KITS CSE faculty publications",
+        "Research papers by KITS CSE",
+        "CSE department journal publications"
+      ],
+      "keywords": ["Publications", "Research", "Journals", "Cryptography", "Data Mining"],
+      "answer": "The faculty have published extensively in international and national journals and conferences, with works like Dr. Ravindra Babu Kallam’s papers on cryptography and Prashanth Kumar Devarakonda’s research on data mining and graph databases."
+    },
+    {
+      "intent": "get_cse_patents",
+      "question": "What patents have been filed or granted to the CSE department faculty?",
+      "patterns": [
+        "Patents by KITS CSE faculty",
+        "Innovations patented by KITS CSE",
+        "CSE department patent details"
+      ],
+      "keywords": ["Patents", "Innovation", "Smart Systems", "IoT", "Cloud Computing"],
+      "answer": "Faculty patents include Dr. Ravindra Babu Kallam’s smart microwave oven and parking space management systems, Sunitha Dodda’s COVID vaccinated personnel prediction system, and Raghu Nangunuri’s IoT bottleneck detection using hybrid learning, among others."
+    },
+    {
+      "intent": "get_cse_industry_collaborations",
+      "question": "What industry collaborations does the CSE department have?",
+      "patterns": [
+        "KITS CSE industry partnerships",
+        "Companies collaborating with KITS CSE",
+        "CSE department industry ties"
+      ],
+      "keywords": ["Collaborations", "Industry", "Software Companies", "Partnerships"],
+      "answer": "The CSE department collaborates with industries like Trylogic Soft Solutions, Acuvate Software, Tera Software, Code Tantra, and Brainovision Solutions for industry-institute interaction and skill development."
+    },
+    {
+      "intent": "get_cse_student_projects",
+      "question": "What are some notable student projects developed by the CSE department?",
+      "patterns": [
+        "KITS CSE student projects",
+        "Notable projects by KITS CSE students",
+        "CSE department student innovations"
+      ],
+      "keywords": ["Student Projects", "Automation", "Government", "Private Sector"],
+      "answer": "Notable student projects include automation systems for government offices like Warangal Municipal Corporation and Primary Health Centre, as well as private sector projects like Paperless Hospital Management System and databases for local businesses."
+    },
+    {
+      "intent": "get_cse_cyber_association",
+      "question": "What activities are organized by the KITS(S) Cyber Association (KCA)?",
+      "patterns": [
+        "KITS Cyber Association activities",
+        "Events by KITS KCA",
+        "KCA charity initiatives"
+      ],
+      "keywords": ["Cyber Association", "Technical Fests", "Workshops", "Charity", "Help Helpless"],
+      "answer": "The KITS(S) Cyber Association organizes national-level technical and cultural fests, workshops, and co-curricular activities. It also runs a charity group, 'Help Helpless,' supporting orphans, handicapped, and elderly individuals."
+    },
+    {
+      "intent": "get_cse_software_tools",
+      "question": "What software tools are utilized in the CSE department's laboratories?",
+      "patterns": [
+        "Software used in KITS CSE labs",
+        "KITS CSE lab tools",
+        "Programming tools in KITS CSE"
+      ],
+      "keywords": ["Software", "Laboratories", "Programming", "Linux", "Java"],
+      "answer": "The CSE department's laboratories use software tools like C, Linux, Java, Python, XAMPP, Apache, MySQL, Selenium, Rational Software Architect, Bugzilla, LaTeX, and MS Office for various programming, web development, and software engineering tasks."
+    },
+    {
+      "intent": "get_cse_research_support",
+      "question": "How does the CSE department support research and development activities?",
+      "patterns": [
+        "KITS CSE research support",
+        "R&D activities in KITS CSE",
+        "CSE department research facilities"
+      ],
+      "keywords": ["Research", "R&D", "Faculty", "Publications", "Patents"],
+      "answer": "The CSE department encourages research and development through faculty involvement in publishing papers in national and international journals, securing patents, and maintaining a dedicated Project/Research & Development Lab equipped with Linux, Python, and LaTeX."
+    },
+    {
+      "intent": "get_cse_library_role",
+      "question": "What is the role of the CSE department’s library in academic development?",
+      "patterns": [
+        "KITS CSE library resources",
+        "Role of CSE library at KITS",
+        "CSE department library support"
+      ],
+      "keywords": ["Library", "Books", "Educational Resources", "NPTEL"],
+      "answer": "The CSE department’s library, with over 480 books, supports academic development by providing resources for students and faculty. It also includes educational videos, CDs, and access to NPTEL video lectures for knowledge enhancement."
+    },
+    {
+      "intent": "get_cse_industry_interaction",
+      "question": "How does the CSE department foster industry-institute interaction?",
+      "patterns": [
+        "KITS CSE industry collaboration",
+        "Industry interaction in KITS CSE",
+        "CSE department industry programs"
+      ],
+      "keywords": ["Industry Interaction", "Collaborations", "Placements", "Skill Development"],
+      "answer": "The CSE department fosters industry-institute interaction through collaborations with companies like Trylogic Soft Solutions and Acuvate Software, organizing workshops, and facilitating placements in firms like DELL, Infosys, and TCS."
+    },
+    {
+      "intent": "get_cse_alumni_achievements",
+      "question": "What are the key achievements of CSE department alumni?",
+      "patterns": [
+        "KITS CSE alumni accomplishments",
+        "Achievements of KITS CSE graduates",
+        "CSE department alumni success"
+      ],
+      "keywords": ["Alumni", "Higher Education", "Placements", "Prestigious Organizations"],
+      "answer": "CSE department alumni have pursued higher education in premier institutes in India and abroad and secured placements in prestigious organizations such as DELL, Infosys, Wipro, TCS, and Genpact."
+    },
+    {
+      "intent": "get_cse_lab_hardware",
+      "question": "What types of hardware are available in the CSE department’s laboratories?",
+      "patterns": [
+        "KITS CSE lab hardware",
+        "Hardware in KITS CSE laboratories",
+        "CSE department lab equipment"
+      ],
+      "keywords": ["Hardware", "Systems", "Servers", "UPS", "Networking"],
+      "answer": "The CSE department’s laboratories are equipped with hardware like Acer and HCL systems (Intel Dual Core, Core i5, Xeon processors), Windows 2003 and HP Proliant servers, Mikrotik routers, and UPS systems (10kVA to 15kVA) for reliable operation."
+    },
+    {
+      "intent": "get_cse_research_areas",
+      "question": "What are the focus areas of the faculty’s research publications in the CSE department?",
+      "patterns": [
+        "KITS CSE research focus",
+        "Research areas in KITS CSE",
+        "CSE faculty publication topics"
+      ],
+      "keywords": ["Research Areas", "Cryptography", "Cloud Computing", "Data Mining", "AI"],
+      "answer": "Faculty research publications focus on areas like cryptography (e.g., Ravindra Babu Kallam’s block cipher work), cloud computing, data mining (e.g., Prashanth Kumar Devarakonda’s association rule mining), artificial intelligence, and network security."
+    },
+    {
+      "intent": "get_cse_extracurricular",
+      "question": "How does the CSE department promote extracurricular activities for students?",
+      "patterns": [
+        "KITS CSE extracurricular programs",
+        "Student activities in KITS CSE",
+        "CSE department student events"
+      ],
+      "keywords": ["Extracurricular", "KCA", "Technical Fests", "Cultural Events"],
+      "answer": "The CSE department promotes extracurricular activities through the KITS(S) Cyber Association (KCA), which organizes national-level technical and cultural fests, workshops, and charity initiatives like 'Help Helpless' for student development."
+    },
+    {
+      "intent": "get_cse_technical_staff",
+      "question": "What are the technical staff roles in the CSE department?",
+      "patterns": [
+        "KITS CSE technical staff roles",
+        "Support staff in KITS CSE",
+        "CSE department lab staff"
+      ],
+      "keywords": ["Technical Staff", "Computer Operator", "Programmer", "Assistant"],
+      "answer": "The technical staff in the CSE department include roles like Technical Assistant (Balaji Babu Rao Sunkara), Computer Programmer (Rajender Chandupatla), and Computer Operators (Raja Subhadra Kommala, Ramanjaneyulu Parlapelli, and others) to support lab operations."
+    },
+    {
+      "intent": "get_cse_project_outcomes",
+      "question": "What are the key outcomes of the student major projects in the CSE department?",
+      "patterns": [
+        "KITS CSE student project results",
+        "Outcomes of KITS CSE projects",
+        "CSE department project impacts"
+      ],
+      "keywords": ["Student Projects", "Automation", "Databases", "Government", "Private"],
+      "answer": "Student major projects have resulted in automation systems for government offices like Warangal Municipal Corporation and databases for private entities like Rohini Super Speciality Hospital, enhancing operational efficiency and digitalization."
+    },
+    {
+      "intent": "get_cse_head",
+      "question": "Who is the head of the CSE department, and what are their qualifications and experience?",
+      "patterns": [
+        "Head of KITS CSE department",
+        "KITS CSE department head qualifications",
+        "Who leads KITS CSE"
+      ],
+      "keywords": ["Head", "Qualifications", "Experience", "Ph.D.", "Professor"],
+      "answer": "Dr. Ravindra Babu Kallam is the Professor and Head of the CSE department, holding a Ph.D. with 26 years and 10 months of experience, having joined KITS College on March 25, 2013."
+    },
+    {
+      "intent": "get_cse_associate_professor",
+      "question": "What is the academic profile of the associate professors in the CSE department?",
+      "patterns": [
+        "KITS CSE associate professor profile",
+        "Qualifications of KITS CSE associate professors",
+        "CSE department associate professor details"
+      ],
+      "keywords": ["Associate Professor", "Qualifications", "Experience", "Ph.D."],
+      "answer": "The CSE department has one associate professor, Dr. Sunitha Dodda, who holds a Ph.D. and has 18 years and 9 months of experience, having joined the institute on August 1, 2007."
+    },
+    {
+      "intent": "get_cse_phd_faculty",
+      "question": "How many faculty members in the CSE department are pursuing or hold a Ph.D.?",
+      "patterns": [
+        "KITS CSE faculty with Ph.D.",
+        "Ph.D. pursuit in KITS CSE",
+        "CSE department Ph.D. faculty"
+      ],
+      "keywords": ["Faculty", "Ph.D.", "Qualifications", "Research"],
+      "answer": "Two faculty members hold a Ph.D. (Dr. Ravindra Babu Kallam and Dr. Sunitha Dodda), and several others, including Yakhoob Banothu, Sanjeevaraju Akinapalli, and Prashanth Kumar Devarakonda, are pursuing a Ph.D. alongside their M.Tech qualifications."
+    },
+    {
+      "intent": "get_cse_faculty_experience",
+      "question": "What is the average experience of the faculty in the CSE department?",
+      "patterns": [
+        "Average experience of KITS CSE faculty",
+        "KITS CSE faculty tenure",
+        "Experience level in KITS CSE"
+      ],
+      "keywords": ["Faculty", "Experience", "Average", "Teaching"],
+      "answer": "The faculty of the CSE department have an average experience of more than 12 years, with individuals like Deshpande Neelakant (24 years 4 months) and Sanjeevaraju Akinapalli (23 years 7 months) contributing significantly."
+    },
+    {
+      "intent": "get_cse_ravindra_research",
+      "question": "What are the research contributions of Dr. Ravindra Babu Kallam in the CSE department?",
+      "patterns": [
+        "Dr. Ravindra Babu Kallam research",
+        "KITS CSE head research contributions",
+        "Ravindra Babu publications and patents"
+      ],
+      "keywords": ["Research", "Publications", "Patents", "Cryptography"],
+      "answer": "Dr. Ravindra Babu Kallam has published numerous papers on cryptography, including 'A Survey on Cryptography and Steganography Methods' (2010) and 'An Enhanced RSA Public Key Cryptographic Algorithm' (2011), and holds patents like a smart microwave oven system (2021) and a centralized parking space management system (2020)."
+    },
+    {
+      "intent": "get_cse_patent_holders",
+      "question": "Which faculty members in the CSE department have been granted patents?",
+      "patterns": [
+        "KITS CSE faculty with patents",
+        "Patented innovations by KITS CSE",
+        "CSE department patent holders"
+      ],
+      "keywords": ["Faculty", "Patents", "Innovation", "Granted"],
+      "answer": "Faculty members with granted patents include Dr. Ravindra Babu Kallam (Australian patent for parking space management, 2020) and Rajendar Kalvala (Australian patent for electric load profiling, 2021)."
+    },
+    {
+      "intent": "get_cse_senior_assistant_professor",
+      "question": "What is the role of senior assistant professors in the CSE department?",
+      "patterns": [
+        "KITS CSE senior assistant professor role",
+        "Contributions of KITS CSE senior faculty",
+        "Senior assistant professors in KITS CSE"
+      ],
+      "keywords": ["Senior Assistant Professor", "Role", "Experience", "Qualifications"],
+      "answer": "Yakhoob Banothu, a Senior Assistant Professor, contributes to teaching and research with 19 years and 10 months of experience and an M.Tech (Ph.D. pursuing), having joined KITS on July 1, 2005."
+    },
+    {
+      "intent": "get_cse_industry_research",
+      "question": "How do CSE department faculty contribute to industry-relevant research?",
+      "patterns": [
+        "KITS CSE industry research",
+        "Industry-relevant publications by KITS CSE",
+        "CSE faculty industry contributions"
+      ],
+      "keywords": ["Faculty", "Industry", "Research", "Publications"],
+      "answer": "Faculty like Prashanth Kumar Devarakonda publish on industry-relevant topics such as cloud computing and data mining (e.g., 'Secure File Hosting in Private Cloud Services,' 2013), while Raghu Nangunuri’s patent on IoT bottleneck detection (2024) addresses industry challenges."
+    },
+    {
+      "intent": "get_cse_longest_tenure",
+      "question": "Which faculty members have the longest tenure at KITS College in the CSE department?",
+      "patterns": [
+        "Longest-serving KITS CSE faculty",
+        "KITS CSE faculty tenure",
+        "Senior faculty in KITS CSE"
+      ],
+      "keywords": ["Faculty", "Tenure", "Experience", "Joining Date"],
+      "answer": "Faculty with the longest tenure include Deshpande Neelakant (joined January 2, 2001, 24 years 4 months) and Sanjeevaraju Akinapalli (joined July 22, 2002, 23 years 7 months), both serving as Assistant Professors."
+    },
+    {
+      "intent": "get_cse_recent_faculty",
+      "question": "What are the recent faculty additions to the CSE department, and their qualifications?",
+      "patterns": [
+        "New faculty in KITS CSE",
+        "Recent KITS CSE faculty hires",
+        "Qualifications of new CSE faculty"
+      ],
+      "keywords": ["Recent Faculty", "Qualifications", "Experience", "Joining Date"],
+      "answer": "Recent faculty additions include Mr. Aithu Harish, Mr. Raju Kodela, Mr. Bejjanki Punnam Chary, Mr. P. Prakash, and Mr. K. Sathish, all joining in March 2025 with M.Tech qualifications and minimal experience (0 years 1 month)."
+    },
+    {
+      "intent": "get_cse_ravindra_qualifications",
+      "question": "What are the qualifications and professional contributions of Dr. Ravindra Babu Kallam as the Head of the CSE department?",
+      "patterns": [
+        "Dr. Ravindra Babu Kallam qualifications",
+        "Contributions of KITS CSE head",
+        "KITS CSE head professional profile"
+      ],
+      "keywords": ["Head", "Qualifications", "Contributions", "Ph.D.", "Cryptography"],
+      "answer": "Dr. Ravindra Babu Kallam, Professor and Head of the CSE department, holds a Ph.D. with 26 years and 10 months of experience. His contributions include extensive publications on cryptography, such as 'A Survey on Cryptography and Steganography Methods' (2010), and patents like a smart microwave oven system (2021) and a parking space management system (2020)."
+    },
+    {
+      "intent": "get_cse_ravindra_research_profile",
+      "question": "How has Dr. Ravindra Babu Kallam contributed to the research profile of the CSE department?",
+      "patterns": [
+        "Dr. Ravindra Babu Kallam research impact",
+        "KITS CSE research by head",
+        "Ravindra Babu research contributions"
+      ],
+      "keywords": ["Research", "Publications", "Patents", "Leadership"],
+      "answer": "Dr. Ravindra Babu Kallam has enhanced the CSE department’s research profile with over 20 international journal publications, including works on block cipher generation and cloud data security, and three patents, such as an automated insulin injecting pen (2019), fostering a research-driven academic environment."
+    },
+    {
+      "intent": "get_cse_raghu_qualifications",
+      "question": "What are the academic qualifications and research contributions of Raghu Nangunuri in the CSE department?",
+      "patterns": [
+        "Raghu Nangunuri qualifications",
+        "KITS CSE Raghu research",
+        "Raghu Nangunuri contributions"
+      ],
+      "keywords": ["Qualifications", "Research", "Publications", "Patents"],
+      "answer": "Raghu Nangunuri, an Assistant Professor with an M.Tech (Ph.D. pursuing) and 19 years and 10 months of experience, has published papers on attribute-based cryptography and email tunnels (2019) and holds patents, including one for IoT bottleneck detection using hybrid learning (2024)."
+    },
+    {
+      "intent": "get_cse_raghu_patents",
+      "question": "What patents has Raghu Nangunuri secured, and how do they impact the CSE department’s innovation profile?",
+      "patterns": [
+        "Raghu Nangunuri patents",
+        "KITS CSE Raghu innovations",
+        "Impact of Raghu patents on CSE"
+      ],
+      "keywords": ["Patents", "Innovation", "IoT", "Student Management"],
+      "answer": "Raghu Nangunuri has secured patents for an automated student information management system (2020) and enhanced bottleneck detection in IoT using hybrid learning (2024), contributing to the CSE department’s innovation in IoT and educational technology."
+    },
+    {
+      "intent": "get_cse_pavan_qualifications",
+      "question": "What is the academic background and research focus of Pavan Kumar Jamalpur in the CSE department?",
+      "patterns": [
+        "Pavan Kumar Jamalpur qualifications",
+        "KITS CSE Pavan research focus",
+        "Pavan Kumar academic profile"
+      ],
+      "keywords": ["Academic Background", "Research", "Cloud Computing", "WSN"],
+      "answer": "Pavan Kumar Jamalpur, an Assistant Professor with an M.Tech (Ph.D. pursuing) and 19 years and 10 months of experience, focuses on cloud computing and wireless sensor networks, with publications like 'Secure and Efficient Multi-Resource Utilization under Discounted Pricing in Cloud' (2021)."
+    },
+    {
+      "intent": "get_cse_pavan_cloud_research",
+      "question": "How do Pavan Kumar Jamalpur’s publications contribute to advancements in cloud computing research?",
+      "patterns": [
+        "Pavan Kumar cloud computing research",
+        "KITS CSE Pavan cloud publications",
+        "Pavan Jamalpur cloud contributions"
+      ],
+      "keywords": ["Publications", "Cloud Computing", "Resource Utilization", "WSN"],
+      "answer": "Pavan Kumar Jamalpur’s publications, such as 'Online Capability Reserve Under Rounded Cost for Cloud Computing' (2017) and 'Secure and Efficient Multi-Resource Utilization under Discounted Pricing in Cloud' (2021), advance cloud computing research by addressing resource optimization and security in distributed systems."
+    },
+    {
+      "intent": "get_cse_deepak_qualifications",
+      "question": "What are the qualifications and key research areas of Deepak Gujjula in the CSE department?",
+      "patterns": [
+        "Deepak Gujjula qualifications",
+        "KITS CSE Deepak research areas",
+        "Deepak Gujjula academic profile"
+      ],
+      "keywords": ["Qualifications", "Research", "Cloud Computing", "Social Media"],
+      "answer": "Deepak Gujjula, an Assistant Professor with an M.Tech (Ph.D. pursuing) and 10 years and 1 month of experience, focuses on cloud computing and social media analytics, with publications like 'Finding Unwanted Messages in Twitter' (2014) and 'An Efficient User Revocable Storage Identity Based Encryption' (2017)."
+    },
+    {
+      "intent": "get_cse_deepak_traffic_research",
+      "question": "How has Deepak Gujjula’s research impacted the CSE department’s work in vehicular traffic systems?",
+      "patterns": [
+        "Deepak Gujjula vehicular traffic research",
+        "KITS CSE traffic system contributions",
+        "Deepak Gujjula traffic publications"
+      ],
+      "keywords": ["Research", "Vehicular Traffic", "Sensors", "Publications"],
+      "answer": "Deepak Gujjula’s publication 'An Advanced Vehicular Traffic Sensor Protocol (TSP)' (2017) has contributed to the CSE department’s research in intelligent transportation systems, enhancing vehicular traffic management through sensor-based protocols."
+    },
+    {
+      "intent": "get_cse_sunitha_qualifications",
+      "question": "What are the academic credentials and research contributions of Dr. Sunitha Dodda in the CSE department?",
+      "patterns": [
+        "Dr. Sunitha Dodda qualifications",
+        "KITS CSE Sunitha research",
+        "Sunitha Dodda contributions"
+      ],
+      "keywords": ["Credentials", "Research", "MANET", "IoT", "Patents"],
+      "answer": "Dr. Sunitha Dodda, an Associate Professor with a Ph.D. and 18 years and 9 months of experience, has published papers on MANETs and IoT, such as 'Cross-layer based routing protocol for TCP in MANET' (2017), and holds a patent for a smart prediction system for COVID-vaccinated personnel (2021)."
+    },
+    {
+      "intent": "get_cse_sunitha_iot_research",
+      "question": "How does Dr. Sunitha Dodda’s research in IoT and MANETs benefit the CSE department?",
+      "patterns": [
+        "Dr. Sunitha Dodda IoT research",
+        "KITS CSE Sunitha MANET contributions",
+        "Sunitha Dodda network research"
+      ],
+      "keywords": ["IoT", "MANET", "Research", "Network Security"],
+      "answer": "Dr. Sunitha Dodda’s research, including 'BLE in IoT: Improved link stability and energy conservation using fuzzy approach' (2021) and MANET congestion control studies, strengthens the CSE department’s expertise in network security and IoT applications for smart systems."
+    },
+    {
+      "intent": "get_cse_neelakant_qualifications",
+      "question": "What is the professional experience and academic focus of Deshpande Neelakant in the CSE department?",
+      "patterns": [
+        "Deshpande Neelakant qualifications",
+        "KITS CSE Neelakant focus",
+        "Neelakant academic profile"
+      ],
+      "keywords": ["Experience", "Academic Focus", "Mobile Networks", "Graph Databases"],
+      "answer": "Deshpande Neelakant, an Assistant Professor with an M.Tech and 24 years and 4 months of experience, focuses on mobile networks and graph databases, with publications like 'Efficient Dynamic Tracking Control System for Mobile Network Agents' (2013)."
+    },
+    {
+      "intent": "get_cse_neelakant_graph_research",
+      "question": "How has Deshpande Neelakant contributed to the CSE department’s research in graph database optimization?",
+      "patterns": [
+        "Deshpande Neelakant graph database research",
+        "KITS CSE Neelakant graph contributions",
+        "Neelakant graph optimization publications"
+      ],
+      "keywords": ["Graph Databases", "Research", "Query Optimization", "Publications"],
+      "answer": "Deshpande Neelakant’s publication 'Index Based Graph Algorithm (IBGA) for Query Optimization in Graph Databases' (2019) enhances the CSE department’s research in optimizing query performance for large-scale graph-based data systems."
+    }
+  ]
+}

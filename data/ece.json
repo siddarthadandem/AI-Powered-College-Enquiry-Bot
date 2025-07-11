@@ -1,0 +1,224 @@
+{
+  "ece": [
+    {
+      "intent": "get_ece_overview",
+      "question": "What is the Electronics and Communication Engineering (ECE) department known for?",
+      "patterns": [
+        "What is KITS ECE department known for",
+        "Highlights of KITS ECE",
+        "ECE department achievements"
+      ],
+      "keywords": ["ECE", "Electronics and Communication", "Accreditation", "Industry-Linkage", "Research", "ESAK"],
+      "answer": "The ECE department is known for its excellent academic structure, industry linkages, accreditation, and its focus on research and development through projects like ESAK."
+    },
+    {
+      "intent": "get_ece_vision_mission",
+      "question": "What is the vision and mission of the ECE department?",
+      "patterns": [
+        "Vision and mission of KITS ECE",
+        "Goals of KITS ECE department",
+        "ECE department objectives"
+      ],
+      "keywords": ["Vision", "Mission", "Value-based education", "Technical knowledge", "Professional ethics", "Entrepreneurship", "Global competence"],
+      "answer": "The vision and mission of the ECE department is to provide value-based education, impart technical knowledge, promote professional ethics, and prepare students for global competence in the field of Electronics and Communication Engineering."
+    },
+    {
+      "intent": "get_ece_faculty",
+      "question": "Who are the key faculty members in the ECE department?",
+      "patterns": [
+        "Key faculty in KITS ECE",
+        "ECE department professors",
+        "Who leads KITS ECE department"
+      ],
+      "keywords": ["Faculty", "Dr. Ramesh", "Dr. Sasikala", "Dr. Hari Prasad", "Dr. Shyam Sunder", "Assistant Professor", "Professor", "Head"],
+      "answer": "The ECE department has notable faculty members such as Dr. Ramesh, Dr. Sasikala, Dr. Hari Prasad, and Dr. Shyam Sunder, including Professors, Assistant Professors, and the Head of the Department."
+    },
+    {
+      "intent": "get_ece_facilities",
+      "question": "What are the major facilities available in the ECE department?",
+      "patterns": [
+        "KITS ECE lab facilities",
+        "Equipment in KITS ECE department",
+        "ECE department infrastructure"
+      ],
+      "keywords": ["Facilities", "EDC Lab", "LDIC Lab", "Communication Lab", "MP Lab", "ECAD Lab", "BS Lab", "PDC Lab", "Microprocessor", "IC Applications", "MATLAB", "PSPICE"],
+      "answer": "The department offers state-of-the-art facilities such as EDC Lab, LDIC Lab, Communication Lab, MP Lab, ECAD Lab, BS Lab, PDC Lab, along with specialized equipment for Microprocessor, IC Applications, MATLAB, and PSPICE."
+    },
+    {
+      "intent": "get_ece_activities",
+      "question": "What activities and events does the ECE department organize?",
+      "patterns": [
+        "Events by KITS ECE department",
+        "KITS ECE student activities",
+        "ECE department seminars and workshops"
+      ],
+      "keywords": ["Activities", "Events", "Guest Lectures", "Workshops", "Seminars", "Industrial Visits", "Technical Symposium", "Career Guidance", "Technical Jam", "Poster Presentation"],
+      "answer": "The ECE department organizes various activities and events such as guest lectures, workshops, seminars, industrial visits, technical symposiums, career guidance sessions, technical jams, and poster presentations."
+    },
+    {
+      "intent": "get_ece_student_projects",
+      "question": "What types of student projects are undertaken in the ECE department?",
+      "patterns": [
+        "KITS ECE student projects",
+        "Projects by KITS ECE students",
+        "ECE department project areas"
+      ],
+      "keywords": ["Student Projects", "IOT-based systems", "Smart technologies", "Machine learning", "Image enhancement", "Signal processing", "Satellite communications", "Smart car", "Medical image segmentation"],
+      "answer": "The students of the ECE department work on diverse projects, including IoT-based systems, smart technologies, machine learning, image enhancement, signal processing, satellite communications, smart cars, and medical image segmentation."
+    },
+    {
+      "intent": "get_ece_student_development",
+      "question": "How does the ECE department help in student development?",
+      "patterns": [
+        "KITS ECE student growth programs",
+        "Student development in KITS ECE",
+        "ECE department co-curricular activities"
+      ],
+      "keywords": ["Student Development", "Co-curricular activities", "Extra-curricular", "Personality development", "Research exposure"],
+      "answer": "The ECE department supports student development by promoting co-curricular and extra-curricular activities, as well as providing exposure to research opportunities and personality development programs."
+    },
+    {
+      "intent": "get_ece_alumni_role",
+      "question": "What is the role of alumni from the ECE department?",
+      "patterns": [
+        "KITS ECE alumni contributions",
+        "Achievements of KITS ECE alumni",
+        "ECE department alumni impact"
+      ],
+      "keywords": ["Alumni", "Higher education", "Premier institutes", "Abroad studies"],
+      "answer": "The ECE department alumni pursue higher education at premier institutes, both in India and abroad, contributing to the department's legacy and enhancing its reputation."
+    },
+    {
+      "intent": "get_ece_research_publications",
+      "question": "What are the research and publication opportunities in the ECE department?",
+      "patterns": [
+        "KITS ECE research opportunities",
+        "Publications by KITS ECE faculty",
+        "ECE department journal contributions"
+      ],
+      "keywords": ["Research", "Publications", "National Journals", "International Journals", "Conferences", "Faculty research"],
+      "answer": "The ECE department encourages research and publication in national and international journals and conferences, with faculty members actively involved in research activities."
+    },
+    {
+      "intent": "get_ece_professional_associations",
+      "question": "What professional associations are associated with the ECE department?",
+      "patterns": [
+        "KITS ECE professional affiliations",
+        "Associations linked to KITS ECE",
+        "ECE department technical memberships"
+      ],
+      "keywords": ["Professional Associations", "IETE", "ISTE", "Membership", "Technical knowledge"],
+      "answer": "The department has strong affiliations with professional associations such as IETE (Institution of Electronics and Telecommunication Engineers) and ISTE (Indian Society for Technical Education), providing students and faculty with opportunities to gain technical knowledge and engage with the broader professional community."
+    },
+    {
+      "intent": "get_ece_core_areas",
+      "question": "What are the core areas of study in the ECE department?",
+      "patterns": [
+        "KITS ECE study areas",
+        "Core subjects in KITS ECE",
+        "ECE department curriculum focus"
+      ],
+      "keywords": ["Core Areas", "Electronics", "Communication", "Signal Processing", "Control Systems", "VLSI", "Microelectronics"],
+      "answer": "The core areas of study in the ECE department include Electronics, Communication, Signal Processing, Control Systems, VLSI (Very-Large-Scale Integration), and Microelectronics."
+    },
+    {
+      "intent": "get_ece_programs",
+      "question": "What are the key programs offered by the ECE department?",
+      "patterns": [
+        "KITS ECE academic programs",
+        "Courses offered by KITS ECE",
+        "ECE department degree options"
+      ],
+      "keywords": ["Programs", "Undergraduate", "Postgraduate", "B.Tech", "M.Tech", "Electronics and Communication Engineering"],
+      "answer": "The ECE department offers a B.Tech program in Electronics and Communication Engineering and a Master's program (M.Tech) with a focus on advanced electronics and communication technologies."
+    },
+    {
+      "intent": "get_ece_industry_collaboration",
+      "question": "How does the ECE department collaborate with industry partners?",
+      "patterns": [
+        "KITS ECE industry partnerships",
+        "Industry collaborations in KITS ECE",
+        "ECE department industry programs"
+      ],
+      "keywords": ["Industry Collaboration", "Partnerships", "Internships", "Research Projects", "Industrial Visits", "Industry Experts"],
+      "answer": "The ECE department maintains strong collaborations with industry partners through internships, research projects, industrial visits, and by inviting industry experts for guest lectures and seminars."
+    },
+    {
+      "intent": "get_ece_software_tools",
+      "question": "What software tools and technologies are taught in the ECE department?",
+      "patterns": [
+        "Software tools in KITS ECE",
+        "Technologies taught in KITS ECE",
+        "ECE department programming tools"
+      ],
+      "keywords": ["Software Tools", "MATLAB", "LabVIEW", "C++", "Python", "Multisim", "VLSI", "Communication Tools"],
+      "answer": "The ECE department teaches software tools like MATLAB, LabVIEW, C++, Python, Multisim, and VLSI design tools, along with communication simulation tools to help students develop practical skills in their field."
+    },
+    {
+      "intent": "get_ece_career_prospects",
+      "question": "What are the career prospects for ECE graduates from KITS?",
+      "patterns": [
+        "Job opportunities for KITS ECE graduates",
+        "Career paths for KITS ECE students",
+        "ECE department graduate prospects"
+      ],
+      "keywords": ["Career Prospects", "Job Opportunities", "Electronics Industry", "Telecommunication", "Networking", "Embedded Systems", "Research", "Higher Studies"],
+      "answer": "ECE graduates from KITS have vast career prospects in industries such as Electronics, Telecommunications, Networking, Embedded Systems, and Research. They also have opportunities for higher studies at reputed institutions."
+    },
+    {
+      "intent": "get_ece_research_areas",
+      "question": "What are the key research areas in the ECE department?",
+      "patterns": [
+        "KITS ECE research focus",
+        "Research areas in KITS ECE",
+        "ECE department research topics"
+      ],
+      "keywords": ["Research Areas", "Signal Processing", "VLSI Design", "Embedded Systems", "Telecommunication", "Wireless Networks", "Nanoelectronics", "Photonics"],
+      "answer": "Key research areas in the ECE department include Signal Processing, VLSI Design, Embedded Systems, Telecommunication, Wireless Networks, Nanoelectronics, and Photonics."
+    },
+    {
+      "intent": "get_ece_entrepreneurship",
+      "question": "How does the ECE department support entrepreneurship?",
+      "patterns": [
+        "KITS ECE entrepreneurship programs",
+        "Startup support in KITS ECE",
+        "ECE department innovation initiatives"
+      ],
+      "keywords": ["Entrepreneurship", "Incubation", "Innovation", "Startups", "Funding", "Technological Innovations"],
+      "answer": "The ECE department supports entrepreneurship by providing a platform for students to innovate, offering incubation facilities, and assisting with funding and resources for startups in the technology space."
+    },
+    {
+      "intent": "get_ece_quality_education",
+      "question": "How does the ECE department ensure quality education?",
+      "patterns": [
+        "KITS ECE education quality",
+        "How KITS ECE maintains standards",
+        "ECE department teaching quality"
+      ],
+      "keywords": ["Quality Education", "Curriculum", "Experienced Faculty", "Hands-on Training", "Assessment", "Industry Links", "Accreditation"],
+      "answer": "The ECE department ensures quality education through a well-structured curriculum, experienced faculty, hands-on training, regular assessments, strong industry links, and maintaining accreditation standards."
+    },
+    {
+      "intent": "get_ece_student_achievements",
+      "question": "What are some of the achievements of the ECE department's students?",
+      "patterns": [
+        "KITS ECE student accomplishments",
+        "Awards won by KITS ECE students",
+        "ECE department student successes"
+      ],
+      "keywords": ["Achievements", "Awards", "Competitions", "Innovation", "Internships", "Research Projects"],
+      "answer": "The ECE department's students have won awards in various competitions, excelled in innovation challenges, completed successful internships, and contributed to significant research projects."
+    },
+    {
+      "intent": "get_ece_sustainability",
+      "question": "What are the ECE department's initiatives for sustainable development?",
+      "patterns": [
+        "KITS ECE sustainability initiatives",
+        "Green projects in KITS ECE",
+        "ECE department eco-friendly efforts"
+      ],
+      "keywords": ["Sustainable Development", "Green Technologies", "Renewable Energy", "Environmental Impact", "Smart Grids", "Eco-friendly Innovations"],
+      "answer": "The ECE department promotes sustainable development through projects focused on green technologies, renewable energy, environmental impact reduction, smart grids, and eco-friendly innovations."
+    }
+  ]
+}

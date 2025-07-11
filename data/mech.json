@@ -1,0 +1,147 @@
+{
+  "mech": [
+    {
+      "intent": "get_mech_hod",
+      "question": "Who is the current Head of the Mechanical Engineering Department at KITS, and what are his qualifications, experience, and joining date?",
+      "patterns": [
+        "Who is the head of KITS Mechanical Engineering",
+        "Dr. Manduva Venkata Satish Kumar qualifications",
+        "When did the KITS Mechanical HoD join"
+      ],
+      "keywords": ["HoD", "Dr. Manduva Venkata Satish Kumar", "Mechanical Engineering", "KITS", "qualification", "experience", "join"],
+      "answer": "The current Head of the Mechanical Engineering Department is Dr. Manduva Venkata Satish Kumar. He holds a Ph.D. in Mechanical Engineering, has 27 years and 6 months of experience in teaching and research, and joined Kamala Institute of Technology & Science on 20th October 1997."
+    },
+    {
+      "intent": "get_mech_vision",
+      "question": "What is the vision of the Mechanical Engineering Department at KITS?",
+      "patterns": [
+        "Vision of KITS Mechanical Engineering",
+        "Goals of KITS Mechanical Department",
+        "KITS Mechanical vision statement"
+      ],
+      "keywords": ["vision", "Mechanical Engineering", "KITS"],
+      "answer": "The vision of the department is to produce mechanical engineering graduates with sound technical knowledge, research inclination, and an innovative and entrepreneurial approach to meet the requirements of the industry and society."
+    },
+    {
+      "intent": "get_mech_mission",
+      "question": "What is the mission of the Mechanical Engineering Department at KITS?",
+      "patterns": [
+        "Mission of KITS Mechanical Engineering",
+        "Objectives of KITS Mechanical Department",
+        "KITS Mechanical mission statement"
+      ],
+      "keywords": ["mission", "Mechanical Engineering", "KITS"],
+      "answer": "The mission of the department is to provide quality educational experience with an emphasis on practical skills, analytical skills, managerial competence, and to create an environment for enhancing employability."
+    },
+    {
+      "intent": "get_mech_objectives",
+      "question": "What are the objectives of the Mechanical Engineering Department at KITS?",
+      "patterns": [
+        "Objectives of KITS Mechanical Engineering",
+        "Goals of KITS Mechanical Department",
+        "KITS Mechanical academic aims"
+      ],
+      "keywords": ["objectives", "Mechanical Engineering", "KITS"],
+      "answer": "The department aims to provide students with a strong foundation in mechanical engineering concepts, hands-on skills in laboratory settings, and prepare them for industrial and societal needs."
+    },
+    {
+      "intent": "get_mech_programs",
+      "question": "What undergraduate and postgraduate programs are offered by the Mechanical Engineering Department at KITS?",
+      "patterns": [
+        "KITS Mechanical Engineering programs",
+        "Degrees offered by KITS Mechanical",
+        "Mechanical Department courses at KITS"
+      ],
+      "keywords": ["programs", "Mechanical Engineering", "KITS", "undergraduate", "postgraduate"],
+      "answer": "The department offers B.Tech in Mechanical Engineering and M.Tech in Advanced Manufacturing Systems."
+    },
+    {
+      "intent": "get_mech_faculty_count",
+      "question": "How many faculty members are there in the Mechanical Engineering Department at KITS?",
+      "patterns": [
+        "Number of faculty in KITS Mechanical",
+        "KITS Mechanical Department staff count",
+        "Mechanical Engineering faculty at KITS"
+      ],
+      "keywords": ["faculty members", "Mechanical Engineering", "KITS"],
+      "answer": "The department has a total of 14 faculty members, including 4 doctorates and several others pursuing Ph.D."
+    },
+    {
+      "intent": "get_mech_labs",
+      "question": "Can you list the major laboratories in the Mechanical Engineering Department at KITS?",
+      "patterns": [
+        "KITS Mechanical Engineering labs",
+        "Laboratories in KITS Mechanical Department",
+        "Mechanical Department lab facilities"
+      ],
+      "keywords": ["labs", "Mechanical Engineering", "KITS"],
+      "answer": "The department has several laboratories, including Engineering Workshop, Fuels and Lubricants, Metallurgy and Material Science, Kinematics and Dynamics, CADD and MAT, Heat Transfer, and Advanced CAD/CAM among others."
+    },
+    {
+      "intent": "get_mech_student_achievements",
+      "question": "What are some of the key achievements of the Mechanical Engineering students at KITS?",
+      "patterns": [
+        "Achievements of KITS Mechanical students",
+        "KITS Mechanical student accomplishments",
+        "Mechanical Department student successes"
+      ],
+      "keywords": ["achievements", "Mechanical Engineering", "students", "KITS"],
+      "answer": "The students have secured University ranks, have participated in national and state-level project competitions, and have been placed in top companies like MIDHANI, Mercedes Benz, Hyundai, and TCS. They have also presented papers in various contests and secured funding for projects."
+    },
+    {
+      "intent": "get_mech_student_projects",
+      "question": "What are some of the notable and major student projects in the Mechanical Engineering Department at KITS?",
+      "patterns": [
+        "KITS Mechanical student projects",
+        "Notable projects by KITS Mechanical students",
+        "Major works in KITS Mechanical Department"
+      ],
+      "keywords": ["student projects", "Mechanical Engineering", "KITS", "projects", "major works"],
+      "answer": "Notable student projects include:\n1. 'RICE TRANSPLANTER,' which won 1st prize in a State-Level competition organized by ABVP, Karimnagar.\n2. 'FERTILIZER SPRAYING HEXACOPTER,' which won 1st prize in a State-Level competition in Hyderabad.\n3. 'KITS(S) Sprinters' vehicle by the SAE club, which won 1st Prize in the Ergonomics division and secured 4th place overall in the National Level Effi Car competition held in Chandigarh (2016).\n4. A solar energy-based innovation that received funding from APCOST.\n5. Projects executed in reputed organizations such as DRDO, BHEL, NTPC, and MIDHANI."
+    },
+    {
+      "intent": "get_mech_facilities",
+      "question": "What is the significance of the Mechanical Engineering Department's facilities?",
+      "patterns": [
+        "KITS Mechanical Department facilities",
+        "Significance of KITS Mechanical labs",
+        "Mechanical Engineering infrastructure at KITS"
+      ],
+      "keywords": ["facilities", "Mechanical Engineering", "KITS"],
+      "answer": "The department boasts state-of-the-art labs such as the Advanced CAD/CAM lab, Manufacturing Simulation lab, and various B.Tech and M.Tech labs that support practical learning and research for students."
+    },
+    {
+      "intent": "get_mech_collaborations",
+      "question": "What collaborations does the Mechanical Engineering Department at KITS have?",
+      "patterns": [
+        "KITS Mechanical Department collaborations",
+        "Industry partners of KITS Mechanical",
+        "Mechanical Engineering research ties at KITS"
+      ],
+      "keywords": ["collaborations", "Mechanical Engineering", "KITS"],
+      "answer": "The department collaborates with renowned organizations like DRDO, BHEL, NTPC, and MIDHANI for student projects and research initiatives."
+    },
+    {
+      "intent": "get_mech_intake",
+      "question": "What is the intake capacity of the Mechanical Engineering Department at KITS?",
+      "patterns": [
+        "KITS Mechanical Engineering intake",
+        "Admission capacity of KITS Mechanical",
+        "Seats in KITS Mechanical B.Tech"
+      ],
+      "keywords": ["intake", "Mechanical Engineering", "KITS", "seats", "admission capacity"],
+      "answer": "The intake capacity of the Mechanical Engineering Department at Kamala Institute of Technology & Science (KITS) is 120 students for the B.Tech program."
+    },
+    {
+      "intent": "get_mech_faculty_list",
+      "question": "Who are the faculty members of the Mechanical Engineering Department at KITS?",
+      "patterns": [
+        "Faculty of KITS Mechanical Engineering",
+        "List of KITS Mechanical professors",
+        "Mechanical Department staff at KITS"
+      ],
+      "keywords": ["faculty", "Mechanical Engineering", "professors", "KITS", "staff list"],
+      "answer": "The faculty of the Mechanical Engineering Department at KITS includes:\nProfessors: Dr. G. Mallaiah\nAssociate Professors: Dr. S. Rajendra Prasad, Dr. A. Komuraiah\nAssistant Professors: Dr. A. Johnson, Dr. S. Vamshi Krishna, Mr. K. Shankaraiah, Mr. R. Venu Madhav, Mr. M. Venkatesh, Mr. E. Sreedhar, Mr. N. Ramakrishna, Mr. K. Amarnath, Mr. P. Surendernath, Mr. K. Vikram Kumar, Mr. V. Kumar, Mr. M. Gangadhari"
+    }
+  ]
+}

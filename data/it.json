@@ -1,0 +1,225 @@
+{
+  "it": [
+    {
+      "intent": "get_it_history",
+      "question": "What is the establishment history and initial setup of the Information Technology department at KITS College?",
+      "patterns": [
+        "History of KITS IT department",
+        "When was KITS IT established",
+        "IT department founding details",
+        "In which year was the IT department at KITS founded?"
+      ],
+      "keywords": ["Establishment", "Intake", "Information Technology", "2023"],
+      "answer": "The Information Technology department at KITS College was established in 2023 with an initial intake of 60 students, equipped with highly qualified faculty and state-of-the-art laboratories to support IT education."
+    },
+    {
+      "intent": "get_it_vision",
+      "question": "What is the vision of the Information Technology department at KITS College?",
+      "patterns": [
+        "Vision of KITS IT department",
+        "Goals of KITS IT",
+        "IT department mission statement"
+      ],
+      "keywords": ["Vision", "Global Competitiveness", "Professional Excellence", "Entrepreneurs"],
+      "answer": "The vision of the Information Technology department is to produce professionally excellent, knowledgeable, globally competitive, and socially responsible engineers and entrepreneurs."
+    },
+    {
+      "intent": "get_it_mission",
+      "question": "What are the mission objectives of the Information Technology department?",
+      "patterns": [
+        "Mission of KITS IT department",
+        "Objectives of KITS IT",
+        "IT department goals"
+      ],
+      "keywords": ["Mission", "Industry Interaction", "Ethics", "Innovation"],
+      "answer": "The mission objectives include imparting quality technical education, fostering industry-institute interaction, instilling professional behavior, ethics, and leadership skills, and promoting innovation through research in Information Technology."
+    },
+    {
+      "intent": "get_it_faculty",
+      "question": "What are the qualifications, experience, and academic contributions of the faculty in the Information Technology department?",
+      "patterns": [
+        "KITS IT faculty qualifications",
+        "Contributions of IT department faculty",
+        "Who are the IT professors at KITS"
+      ],
+      "keywords": ["Faculty", "Qualifications", "Experience", "Ph.D.", "Professor", "Head", "Research", "Publications", "Senior Assistant Professor", "Assistant Professor", "Mobile Networks", "Graph Databases"],
+      "answer": "The IT department faculty include Dr. Ravindra Babu Kallam (Ph.D., 26 years 10 months experience, Professor and Head, joined March 25, 2013, contributes through leadership and research), Dr. Sunitha Dodda (Ph.D., 18 years 9 months experience, Associate Professor, joined August 1, 2007, publications in IoT and MANETs), Yakhoob Banothu (M.Tech, Ph.D. pursuing, 19 years 10 months experience, Senior Assistant Professor, joined July 1, 2005, teaching and research), Sanjeevaraju Akinapalli (M.Tech, Ph.D. pursuing, 23 years 7 months experience, Assistant Professor, joined July 22, 2002, teaching expertise), and Deshpande Neelakant (M.Tech, 24 years 4 months experience, Assistant Professor, joined January 2, 2001, expertise in mobile networks and graph databases). Others hold M.Tech degrees, many pursuing Ph.D.s, with an average experience of over 12 years."
+    },
+    {
+      "intent": "get_it_facilities",
+      "question": "What facilities, including laboratories, library, and internet, support the Information Technology department’s academic and research activities?",
+      "patterns": [
+        "KITS IT department facilities",
+        "IT department laboratory and library resources",
+        "How internet supports IT department learning"
+      ],
+      "keywords": ["Laboratories", "Library", "Internet", "Books", "NPTEL", "Knowledge", "Facilities", "Systems", "Hands-on Learning", "Research"],
+      "answer": "The IT department’s laboratories are equipped with highly configured systems and 500Mbps internet connectivity, supporting advanced IT education and hands-on learning for coding, networking, and project development. The dedicated library, with over 480 books, educational videos, CDs, and NPTEL video lectures, serves as a vital resource for faculty and students to update their knowledge and support academic and research activities. The high-speed internet provides fast access to online resources, cloud-based tools, and real-time collaboration for advanced IT coursework."
+    },
+    {
+      "intent": "get_it_research",
+      "question": "How does the Information Technology department encourage and foster a research-oriented environment for its faculty?",
+      "patterns": [
+        "KITS IT research support",
+        "How IT department promotes faculty R&D",
+        "IT department research environment"
+      ],
+      "keywords": ["Research", "R&D", "Publications", "Journals", "Faculty"],
+      "answer": "The Information Technology department fosters a research-oriented environment by encouraging faculty to engage in R&D activities, motivating them to publish papers in national and international journals and conferences, and promoting academic excellence through active research engagement."
+    },
+    {
+      "intent": "get_it_student_association",
+      "question": "What is the role of the IT department’s student association in student development?",
+      "patterns": [
+        "KITS IT student association activities",
+        "How IT department association helps students",
+        "IT department extracurricular programs"
+      ],
+      "keywords": ["Student Association", "Co-curricular", "Extracurricular", "Development"],
+      "answer": "The IT department’s student association promotes all-round student development by organizing co-curricular and extracurricular activities, enhancing technical, leadership, and interpersonal skills."
+    },
+    {
+      "intent": "get_it_industry_linkages",
+      "question": "How does the Information Technology department maintain strong industry-institute linkages?",
+      "patterns": [
+        "KITS IT industry collaboration",
+        "IT department industry partnerships",
+        "How IT department works with industry"
+      ],
+      "keywords": ["Industry Linkage", "Collaboration", "Skilled Engineers", "Interaction"],
+      "answer": "The IT department maintains strong industry-institute linkages through continuous interaction, participation, and collaboration with industries, contributing skilled computer science engineers to meet societal and industry needs."
+    },
+    {
+      "intent": "get_it_leadership_entrepreneurship",
+      "question": "How does the Information Technology department instill leadership and entrepreneurial skills in students?",
+      "patterns": [
+        "KITS IT leadership training",
+        "IT department entrepreneurship programs",
+        "How IT department fosters leadership"
+      ],
+      "keywords": ["Leadership", "Entrepreneurship", "Mission", "Skills"],
+      "answer": "The IT department instills leadership and entrepreneurial skills by infusing professional behavior, human values, and entrepreneurship skills in students, as part of its mission to prepare them for societal betterment."
+    },
+    {
+      "intent": "get_it_raghu_contributions",
+      "question": "What contributions does Raghu Nangunuri make to the Information Technology department’s research profile?",
+      "patterns": [
+        "Raghu Nangunuri research in KITS IT",
+        "IT department patents by Raghu",
+        "Contributions of Raghu in IT department"
+      ],
+      "keywords": ["Faculty", "Research", "Publications", "Patents"],
+      "answer": "Raghu Nangunuri, an Assistant Professor with an M.Tech (Ph.D. pursuing) and 19 years and 10 months of experience, enhances the IT department’s research profile with publications on cloud computing and patents like IoT bottleneck detection (2024)."
+    },
+    {
+      "intent": "get_it_ethics",
+      "question": "How does the Information Technology department promote ethical and social values among its students?",
+      "patterns": [
+        "KITS IT ethical training",
+        "IT department social values",
+        "How IT department teaches ethics"
+      ],
+      "keywords": ["Ethics", "Social Values", "Mission", "Professional Behavior"],
+      "answer": "The IT department promotes ethical and social values through its mission to infuse professional behavior, human values, and social responsibility in students, encouraging them to work with dedication for societal betterment."
+    },
+    {
+      "intent": "get_it_new_faculty",
+      "question": "What are the recent faculty additions to the Information Technology department, their qualifications, and roles?",
+      "patterns": [
+        "New faculty in KITS IT department",
+        "Recent IT department hires",
+        "Qualifications of newest IT faculty"
+      ],
+      "keywords": ["Recent Faculty", "Qualifications", "Joining Date", "Experience", "New Faculty", "Roles"],
+      "answer": "Recent faculty additions include R Meghana, Aithu Harish, Raju Kodela, Bejjanki Punnam Chary, P Prakash, and K Sathish, all joining in March 2025 with M.Tech qualifications, serving as Assistant Professors with 0 years and 1 month of experience."
+    },
+    {
+      "intent": "get_it_innovation",
+      "question": "How does the Information Technology department’s mission promote innovation in technology development?",
+      "patterns": [
+        "KITS IT innovation focus",
+        "IT department technology development",
+        "How IT mission supports innovation"
+      ],
+      "keywords": ["Mission", "Innovation", "Research", "Technology"],
+      "answer": "The IT department’s mission promotes innovation by focusing on research and development in cutting-edge IT areas, encouraging students and faculty to create technologies that address industry and societal needs."
+    },
+    {
+      "intent": "get_it_student_association_extracurricular",
+      "question": "How does the Information Technology department’s student association enhance extracurricular engagement?",
+      "patterns": [
+        "KITS IT extracurricular activities",
+        "IT department student association events",
+        "How IT association boosts student engagement"
+      ],
+      "keywords": ["Student Association", "Extracurricular", "Activities", "Development"],
+      "answer": "The IT department’s student association enhances extracurricular engagement by organizing events and activities that develop leadership, teamwork, and interpersonal skills, complementing students’ technical education."
+    },
+    {
+      "intent": "get_it_global_competitiveness",
+      "question": "How does the Information Technology department prepare students for global competitiveness?",
+      "patterns": [
+        "KITS IT global competitiveness",
+        "How IT department prepares for global jobs",
+        "IT department international skills"
+      ],
+      "keywords": ["Global Competitiveness", "Vision", "Education", "Skills"],
+      "answer": "The IT department prepares students for global competitiveness by delivering quality technical education and fostering professional excellence, as outlined in its vision, equipping them with skills for international IT challenges."
+    },
+    {
+      "intent": "get_it_sunitha_expertise",
+      "question": "What is the significance of Dr. Sunitha Dodda’s expertise in the Information Technology department?",
+      "patterns": [
+        "Dr. Sunitha Dodda expertise in KITS IT",
+        "IT department IoT research",
+        "Sunitha Dodda contributions to IT"
+      ],
+      "keywords": ["Faculty", "Ph.D.", "IoT", "MANETs"],
+      "answer": "Dr. Sunitha Dodda, an Associate Professor with a Ph.D. and 18 years and 9 months of experience, brings significant expertise in IoT and MANETs, enriching the IT department’s research and teaching since joining on August 1, 2007."
+    },
+    {
+      "intent": "get_it_hands_on_learning",
+      "question": "How do the IT department’s laboratories support hands-on learning for students?",
+      "patterns": [
+        "KITS IT hands-on learning",
+        "IT department lab support for students",
+        "How IT labs help practical education"
+      ],
+      "keywords": ["Laboratories", "Hands-on Learning", "Systems", "Facilities"],
+      "answer": "The IT department’s laboratories, equipped with highly configured systems and 500Mbps internet, support hands-on learning by providing practical environments for coding, networking, and project development."
+    },
+    {
+      "intent": "get_it_employability",
+      "question": "How does the Information Technology department’s industry-institute interaction benefit student employability?",
+      "patterns": [
+        "KITS IT employability benefits",
+        "IT department industry interaction",
+        "How IT department boosts job prospects"
+      ],
+      "keywords": ["Industry Interaction", "Employability", "Collaboration", "Skills"],
+      "answer": "The IT department’s industry-institute interaction enhances student employability by facilitating collaborations that provide exposure to real-world IT challenges, ensuring students develop industry-relevant skills."
+    },
+    {
+      "intent": "get_it_intake",
+      "question": "What is the intake capacity of the IT department at KITS?",
+      "patterns": [
+        "KITS IT intake capacity",
+        "How many students in KITS IT",
+        "IT department admission seats"
+      ],
+      "keywords": ["intake", "IT", "KITS", "seats", "admission capacity"],
+      "answer": "The intake capacity of the Information Technology Department at Kamala Institute of Technology & Science (KITS) is 60 students for the B.Tech program."
+    },
+    {
+      "intent": "get_it_professional_ethics",
+      "question": "How does the Information Technology department’s mission foster professional ethics among students?",
+      "patterns": [
+        "KITS IT professional ethics",
+        "IT department ethical values",
+        "How IT mission promotes ethics"
+      ],
+      "keywords": ["Mission", "Professional Ethics", "Values", "Leadership"],
+      "answer": "The IT department’s mission fosters professional ethics by infusing students with human values, social values, and ethical principles, preparing them to lead with integrity in the IT industry."
+    }
+  ]
+}
