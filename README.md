@@ -51,10 +51,13 @@ college-chatbot/
 ├── .gitignore               # Files & directories to ignore in git
 ├── README.md                # Project documentation
 └── LICENSE                  # Project license (e.g., MIT)
+```
 
 ---
 
-## How to Run
+## ▶️ How to Run
+
+```bash
 # Clone the repository
 git clone https://github.com/yourusername/college-chatbot.git
 cd college-chatbot
@@ -67,6 +70,7 @@ echo "API_KEY=your_openai_or_openrouter_api_key" > .env
 
 # Run the chatbot
 python app.py
+```
 
 ---
 
@@ -82,4 +86,4 @@ Feel free to fork this repository, suggest improvements, or open issues.
 ---
 
 ## 📃 License
-This project is open-source and free to use under the [MIT License](LICENSE).# AI-Powered-College-Enquiry-Bot
+This project is open-source and free to use under the [MIT License](LICENSE).
