@@ -55,9 +55,6 @@ college-chatbot/
 ---
 
 ## 🚀 How to Run
-> Make sure you have Python installed, and set your API key.
-
-\`\`\`bash
 # Clone the repository
 git clone https://github.com/yourusername/college-chatbot.git
 cd college-chatbot
@@ -70,8 +67,6 @@ echo "API_KEY=your_openai_or_openrouter_api_key" > .env
 
 # Run the chatbot
 python app.py
-
-The app will run at: [http://127.0.0.1:5050](http://127.0.0.1:5050)
 
 ---
 
