@@ -54,7 +54,7 @@ college-chatbot/
 
 ---
 
-## 🚀 How to Run
+## How to Run
 # Clone the repository
 git clone https://github.com/yourusername/college-chatbot.git
 cd college-chatbot
