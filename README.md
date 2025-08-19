@@ -27,16 +27,16 @@ Designed to answer student and visitor queries about the college using a combina
 
 ## 📂 Project Structure
 college-chatbot/
-├── app.py                   # Main Flask application
-├── templates/               # HTML templates (index.html etc.)
-│   └── index.html
-├── static/                  # Static files: CSS, JS, images
-│   ├── css/
-│   │   └── style.css
-│   ├── js/
-│   │   └── script.js
-│   └── images/
-│       └── logo.png
+── app.py                   # Main Flask application
+── templates/               # HTML templates (index.html etc.)
+    ── index.html
+── static/                  # Static files: CSS, JS, images
+   ├── css/
+   │   └── style.css
+   ├── js/
+   │   └── script.js
+   └── images/
+       └── logo.png
 ├── data/                    # Department-wise FAQ JSON files
 │   ├── cse.json
 │   ├── ece.json
@@ -69,7 +69,6 @@ echo "API_KEY=your_openai_or_openrouter_api_key" > .env
 
 # Run the chatbot
 python app.py
-\`\`\`
 
 The app will run at: [http://127.0.0.1:5050](http://127.0.0.1:5050)
 
