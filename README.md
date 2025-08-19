@@ -87,15 +87,3 @@ Feel free to fork this repository, suggest improvements, or open issues.
 
 ## 📃 License
 This project is open-source and free to use under the [MIT License](LICENSE).
-
-![Home Page – Clean and Minimalist Chatbot Entry](attachment:image1)
-*Figure 1: The KitsBOT home page welcomes users with a clean interface and a central chat input, inviting them to ask anything.*
-
-![Responsive Sidebar and Chat History](attachment:image2)
-*Figure 2: Sidebar expanded, showing KITS faculty, student login, and detailed chat history for easy navigation.*
-
-![Chat in Action – Bot Responding to Queries](attachment:image3)
-*Figure 3: Active chat session displaying responses from KitsBOT, with each answer clearly separated and categorized.*
-
-![API Fallback – Bot Handles API Failure](attachment:image4)
-*Figure 4: Example of the chatbot handling an API fallback gracefully while continuing the user conversation.*
