@@ -52,7 +52,6 @@ college-chatbot/
 ├── README.md                # Project documentation
 └── LICENSE                  # Project license (e.g., MIT)
 
-
 ---
 
 ## 🚀 How to Run
