@@ -25,18 +25,20 @@ Designed to answer student and visitor queries about the college using a combina
 
 ---
 
-## 📂 Project Structure
+## 📂 Project Structure – College Chatbot
+
+```bash
 college-chatbot/
-── app.py                   # Main Flask application
-── templates/               # HTML templates (index.html etc.)
-    ── index.html
-── static/                  # Static files: CSS, JS, images
-   ├── css/
-   │   └── style.css
-   ├── js/
-   │   └── script.js
-   └── images/
-       └── logo.png
+├── app.py                   # Main Flask application
+├── templates/               # HTML templates (index.html etc.)
+│   └── index.html
+├── static/                  # Static files: CSS, JS, images
+│   ├── css/
+│   │   └── style.css
+│   ├── js/
+│   │   └── script.js
+│   └── images/
+│       └── logo.png
 ├── data/                    # Department-wise FAQ JSON files
 │   ├── cse.json
 │   ├── ece.json
